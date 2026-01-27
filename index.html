@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rare Bird Sightings - New York</title>
+
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+
+    <!-- Leaflet MarkerCluster CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css" />
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <h1>Rare Bird Sightings</h1>
+            <p class="subtitle">Notable observations from eBird - <span id="region-name">New York</span></p>
+        </div>
+        <div class="last-updated">
+            Last updated: <span id="last-updated">Loading...</span>
+        </div>
+    </header>
+
+    <main>
+        <!-- Summary Cards -->
+        <section class="summary-cards">
+            <div class="card">
+                <div class="card-icon">&#128038;</div>
+                <div class="card-content">
+                    <span class="card-value" id="total-sightings">-</span>
+                    <span class="card-label">Total Sightings</span>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-icon">&#127793;</div>
+                <div class="card-content">
+                    <span class="card-value" id="unique-species">-</span>
+                    <span class="card-label">Unique Species</span>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-icon">&#128205;</div>
+                <div class="card-content">
+                    <span class="card-value" id="unique-locations">-</span>
+                    <span class="card-label">Locations</span>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-icon">&#128197;</div>
+                <div class="card-content">
+                    <span class="card-value" id="days-covered">-</span>
+                    <span class="card-label">Days Covered</span>
+                </div>
+            </div>
+        </section>
+
+        <!-- Filters -->
+        <section class="filters">
+            <div class="filter-group">
+                <label for="species-filter">Species:</label>
+                <select id="species-filter">
+                    <option value="">All Species</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <label for="search-filter">Search:</label>
+                <input type="text" id="search-filter" placeholder="Search species or location...">
+            </div>
+            <button id="reset-filters" class="btn">Reset Filters</button>
+        </section>
+
+        <!-- Map -->
+        <section class="map-container">
+            <div id="map"></div>
+        </section>
+
+        <!-- Data Table -->
+        <section class="table-container">
+            <h2>Sighting Details</h2>
+            <table id="sightings-table">
+                <thead>
+                    <tr>
+                        <th data-sort="comName">Species</th>
+                        <th data-sort="locName">Location</th>
+                        <th data-sort="obsDt">Date/Time</th>
+                        <th data-sort="howMany">Count</th>
+                        <th>Links</th>
+                    </tr>
+                </thead>
+                <tbody id="sightings-body">
+                    <tr>
+                        <td colspan="5" class="loading">Loading sightings...</td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+    </main>
+
+    <footer>
+        <p>Data from <a href="https://ebird.org" target="_blank">eBird</a> by Cornell Lab of Ornithology</p>
+        <p>Auto-updated via GitHub Actions</p>
+    </footer>
+
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+    <!-- Leaflet MarkerCluster JS -->
+    <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
+
+    <!-- Custom JS -->
+    <script src="app.js"></script>
+</body>
+</html>

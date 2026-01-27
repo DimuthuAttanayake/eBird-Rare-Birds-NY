@@ -1,0 +1,84 @@
+name: Scrape eBird Data
+
+on:
+  # Run every 6 hours
+  schedule:
+    - cron: '0 */6 * * *'
+
+  # Allow manual trigger
+  workflow_dispatch:
+
+  # Run on push to main (for initial setup)
+  push:
+    branches:
+      - main
+    paths:
+      - 'scraper.py'
+
+# Sets permissions of the GITHUB_TOKEN
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Run scraper
+        env:
+          EBIRD_API_KEY: ${{ secrets.EBIRD_API_KEY }}
+          EBIRD_REGION: ${{ vars.EBIRD_REGION || 'US-NY' }}
+          DAYS_BACK: ${{ vars.DAYS_BACK || '14' }}
+        run: python scraper.py
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/sightings.json
+          git diff --staged --quiet || git commit -m "Update sightings data [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+          git push
+
+  deploy:
+    needs: scrape
+    runs-on: ubuntu-latest
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Pull latest changes
+        run: git pull origin main
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
