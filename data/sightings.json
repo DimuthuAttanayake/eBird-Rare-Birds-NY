@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-04-17T01:48:10.603340Z",
+  "lastUpdated": "2026-04-17T07:20:31.980703Z",
   "region": "US-NY",
-  "totalSightings": 1405,
+  "totalSightings": 1412,
   "daysBack": 14,
   "sightings": [
     {
@@ -13,8 +13,8 @@
       "lng": -73.9832322,
       "obsDt": "2026-04-16 19:15",
       "howMany": 1,
-      "obsValid": false,
-      "obsReviewed": false,
+      "obsValid": true,
+      "obsReviewed": true,
       "locationPrivate": false,
       "subId": "S322693659",
       "locId": "L683555",
@@ -30,8 +30,8 @@
       "lng": -73.9558947,
       "obsDt": "2026-04-16 19:04",
       "howMany": 2,
-      "obsValid": false,
-      "obsReviewed": false,
+      "obsValid": true,
+      "obsReviewed": true,
       "locationPrivate": false,
       "subId": "S322675971",
       "locId": "L794140",
@@ -47,13 +47,30 @@
       "lng": -73.984103,
       "obsDt": "2026-04-16 18:41",
       "howMany": 1,
-      "obsValid": false,
-      "obsReviewed": false,
+      "obsValid": true,
+      "obsReviewed": true,
       "locationPrivate": true,
       "subId": "S322668018",
       "locId": "L23070909",
       "checklistLink": "https://ebird.org/checklist/S322668018",
       "speciesLink": "https://ebird.org/species/virrai"
+    },
+    {
+      "speciesCode": "prowar",
+      "comName": "Prothonotary Warbler",
+      "sciName": "Protonotaria citrea",
+      "locName": "Crocheron Park",
+      "lat": 40.7718906,
+      "lng": -73.7676435,
+      "obsDt": "2026-04-16 18:39",
+      "howMany": 1,
+      "obsValid": false,
+      "obsReviewed": false,
+      "locationPrivate": false,
+      "subId": "S322739011",
+      "locId": "L581828",
+      "checklistLink": "https://ebird.org/checklist/S322739011",
+      "speciesLink": "https://ebird.org/species/prowar"
     },
     {
       "speciesCode": "btnwar",
@@ -258,23 +275,6 @@
       "locId": "L715580",
       "checklistLink": "https://ebird.org/checklist/S322630561",
       "speciesLink": "https://ebird.org/species/yelwar1"
-    },
-    {
-      "speciesCode": "prowar",
-      "comName": "Prothonotary Warbler",
-      "sciName": "Protonotaria citrea",
-      "locName": "Crocheron Park",
-      "lat": 40.7718906,
-      "lng": -73.7676435,
-      "obsDt": "2026-04-16 16:30",
-      "howMany": 1,
-      "obsValid": false,
-      "obsReviewed": false,
-      "locationPrivate": false,
-      "subId": "S322699951",
-      "locId": "L581828",
-      "checklistLink": "https://ebird.org/checklist/S322699951",
-      "speciesLink": "https://ebird.org/species/prowar"
     },
     {
       "speciesCode": "willet2",
@@ -566,23 +566,6 @@
       "speciesLink": "https://ebird.org/species/houwre"
     },
     {
-      "speciesCode": "lesyel",
-      "comName": "Lesser Yellowlegs",
-      "sciName": "Tringa flavipes",
-      "locName": "Jerome Park Reservoir",
-      "lat": 40.8779122,
-      "lng": -73.8954009,
-      "obsDt": "2026-04-16 12:05",
-      "howMany": 1,
-      "obsValid": false,
-      "obsReviewed": false,
-      "locationPrivate": false,
-      "subId": "S322520283",
-      "locId": "L6080224",
-      "checklistLink": "https://ebird.org/checklist/S322520283",
-      "speciesLink": "https://ebird.org/species/lesyel"
-    },
-    {
       "speciesCode": "solsan",
       "comName": "Solitary Sandpiper",
       "sciName": "Tringa solitaria",
@@ -598,6 +581,23 @@
       "locId": "L6080224",
       "checklistLink": "https://ebird.org/checklist/S322520283",
       "speciesLink": "https://ebird.org/species/solsan"
+    },
+    {
+      "speciesCode": "lesyel",
+      "comName": "Lesser Yellowlegs",
+      "sciName": "Tringa flavipes",
+      "locName": "Jerome Park Reservoir",
+      "lat": 40.8779122,
+      "lng": -73.8954009,
+      "obsDt": "2026-04-16 12:05",
+      "howMany": 1,
+      "obsValid": false,
+      "obsReviewed": false,
+      "locationPrivate": false,
+      "subId": "S322520283",
+      "locId": "L6080224",
+      "checklistLink": "https://ebird.org/checklist/S322520283",
+      "speciesLink": "https://ebird.org/species/lesyel"
     },
     {
       "speciesCode": "norpar",
@@ -651,6 +651,23 @@
       "speciesLink": "https://ebird.org/species/retloo"
     },
     {
+      "speciesCode": "grnher",
+      "comName": "Green Heron",
+      "sciName": "Butorides virescens",
+      "locName": "Central Park",
+      "lat": 40.7715482,
+      "lng": -73.9724819,
+      "obsDt": "2026-04-16 11:55",
+      "howMany": 1,
+      "obsValid": true,
+      "obsReviewed": true,
+      "locationPrivate": false,
+      "subId": "S322639116",
+      "locId": "L191106",
+      "checklistLink": "https://ebird.org/checklist/S322639116",
+      "speciesLink": "https://ebird.org/species/grnher"
+    },
+    {
       "speciesCode": "gloibi",
       "comName": "Glossy Ibis",
       "sciName": "Plegadis falcinellus",
@@ -666,40 +683,6 @@
       "locId": "L62957515",
       "checklistLink": "https://ebird.org/checklist/S322518539",
       "speciesLink": "https://ebird.org/species/gloibi"
-    },
-    {
-      "speciesCode": "grnher",
-      "comName": "Green Heron",
-      "sciName": "Butorides virescens",
-      "locName": "Central Park",
-      "lat": 40.7715482,
-      "lng": -73.9724819,
-      "obsDt": "2026-04-16 11:55",
-      "howMany": 1,
-      "obsValid": false,
-      "obsReviewed": false,
-      "locationPrivate": false,
-      "subId": "S322639116",
-      "locId": "L191106",
-      "checklistLink": "https://ebird.org/checklist/S322639116",
-      "speciesLink": "https://ebird.org/species/grnher"
-    },
-    {
-      "speciesCode": "evegro",
-      "comName": "Evening Grosbeak",
-      "sciName": "Hesperiphona vespertina",
-      "locName": "Gage Wildlife Sanctuary (private)",
-      "lat": 42.631103,
-      "lng": -77.486174,
-      "obsDt": "2026-04-16 11:40",
-      "howMany": 2,
-      "obsValid": true,
-      "obsReviewed": true,
-      "locationPrivate": false,
-      "subId": "S322524070",
-      "locId": "L31396638",
-      "checklistLink": "https://ebird.org/checklist/S322524070",
-      "speciesLink": "https://ebird.org/species/evegro"
     },
     {
       "speciesCode": "yelwar1",
@@ -719,6 +702,23 @@
       "speciesLink": "https://ebird.org/species/yelwar1"
     },
     {
+      "speciesCode": "evegro",
+      "comName": "Evening Grosbeak",
+      "sciName": "Hesperiphona vespertina",
+      "locName": "Gage Wildlife Sanctuary (private)",
+      "lat": 42.631103,
+      "lng": -77.486174,
+      "obsDt": "2026-04-16 11:40",
+      "howMany": 2,
+      "obsValid": true,
+      "obsReviewed": true,
+      "locationPrivate": false,
+      "subId": "S322524070",
+      "locId": "L31396638",
+      "checklistLink": "https://ebird.org/checklist/S322524070",
+      "speciesLink": "https://ebird.org/species/evegro"
+    },
+    {
       "speciesCode": "gloibi",
       "comName": "Glossy Ibis",
       "sciName": "Plegadis falcinellus",
@@ -736,6 +736,40 @@
       "speciesLink": "https://ebird.org/species/gloibi"
     },
     {
+      "speciesCode": "chiswi",
+      "comName": "Chimney Swift",
+      "sciName": "Chaetura pelagica",
+      "locName": "Central Park--North Woods",
+      "lat": 40.7978829,
+      "lng": -73.9561404,
+      "obsDt": "2026-04-16 11:30",
+      "howMany": 1,
+      "obsValid": false,
+      "obsReviewed": false,
+      "locationPrivate": false,
+      "subId": "S322728237",
+      "locId": "L13512159",
+      "checklistLink": "https://ebird.org/checklist/S322728237",
+      "speciesLink": "https://ebird.org/species/chiswi"
+    },
+    {
+      "speciesCode": "grnher",
+      "comName": "Green Heron",
+      "sciName": "Butorides virescens",
+      "locName": "Central Park--North Woods",
+      "lat": 40.7978829,
+      "lng": -73.9561404,
+      "obsDt": "2026-04-16 11:30",
+      "howMany": 1,
+      "obsValid": true,
+      "obsReviewed": true,
+      "locationPrivate": false,
+      "subId": "S322728237",
+      "locId": "L13512159",
+      "checklistLink": "https://ebird.org/checklist/S322728237",
+      "speciesLink": "https://ebird.org/species/grnher"
+    },
+    {
       "speciesCode": "grnher",
       "comName": "Green Heron",
       "sciName": "Butorides virescens",
@@ -744,8 +778,8 @@
       "lng": -73.9606707,
       "obsDt": "2026-04-16 11:25",
       "howMany": 2,
-      "obsValid": false,
-      "obsReviewed": false,
+      "obsValid": true,
+      "obsReviewed": true,
       "locationPrivate": false,
       "subId": "S322527092",
       "locId": "L318103",
@@ -846,8 +880,8 @@
       "lng": -74.0159751,
       "obsDt": "2026-04-16 11:03",
       "howMany": 1,
-      "obsValid": false,
-      "obsReviewed": false,
+      "obsValid": true,
+      "obsReviewed": true,
       "locationPrivate": false,
       "subId": "S322510300",
       "locId": "L288752",
@@ -926,23 +960,6 @@
       "speciesCode": "evegro",
       "comName": "Evening Grosbeak",
       "sciName": "Hesperiphona vespertina",
-      "locName": "Yaple X McGrath Road Intersection",
-      "lat": 42.347316,
-      "lng": -76.288068,
-      "obsDt": "2026-04-16 10:56",
-      "howMany": 13,
-      "obsValid": false,
-      "obsReviewed": false,
-      "locationPrivate": false,
-      "subId": "S322506578",
-      "locId": "L35891795",
-      "checklistLink": "https://ebird.org/checklist/S322506578",
-      "speciesLink": "https://ebird.org/species/evegro"
-    },
-    {
-      "speciesCode": "evegro",
-      "comName": "Evening Grosbeak",
-      "sciName": "Hesperiphona vespertina",
       "locName": "Potato Hill SF",
       "lat": 42.3496153,
       "lng": -76.2661685,
@@ -972,6 +989,23 @@
       "locId": "L62958212",
       "checklistLink": "https://ebird.org/checklist/S322522033",
       "speciesLink": "https://ebird.org/species/gloibi"
+    },
+    {
+      "speciesCode": "evegro",
+      "comName": "Evening Grosbeak",
+      "sciName": "Hesperiphona vespertina",
+      "locName": "Yaple X McGrath Road Intersection",
+      "lat": 42.347316,
+      "lng": -76.288068,
+      "obsDt": "2026-04-16 10:56",
+      "howMany": 13,
+      "obsValid": false,
+      "obsReviewed": false,
+      "locationPrivate": false,
+      "subId": "S322506578",
+      "locId": "L35891795",
+      "checklistLink": "https://ebird.org/checklist/S322506578",
+      "speciesLink": "https://ebird.org/species/evegro"
     },
     {
       "speciesCode": "blksco2",
@@ -1019,9 +1053,9 @@
       "obsValid": false,
       "obsReviewed": false,
       "locationPrivate": true,
-      "subId": "S322534697",
+      "subId": "S322534698",
       "locId": "L62960771",
-      "checklistLink": "https://ebird.org/checklist/S322534697",
+      "checklistLink": "https://ebird.org/checklist/S322534698",
       "speciesLink": "https://ebird.org/species/botgra"
     },
     {
@@ -1033,12 +1067,12 @@
       "lng": -73.9558947,
       "obsDt": "2026-04-16 10:33",
       "howMany": 1,
-      "obsValid": false,
-      "obsReviewed": false,
+      "obsValid": true,
+      "obsReviewed": true,
       "locationPrivate": false,
-      "subId": "S322569186",
+      "subId": "S322571459",
       "locId": "L794140",
-      "checklistLink": "https://ebird.org/checklist/S322569186",
+      "checklistLink": "https://ebird.org/checklist/S322571459",
       "speciesLink": "https://ebird.org/species/norpar"
     },
     {
@@ -1050,8 +1084,8 @@
       "lng": -73.9558947,
       "obsDt": "2026-04-16 10:33",
       "howMany": 1,
-      "obsValid": false,
-      "obsReviewed": false,
+      "obsValid": true,
+      "obsReviewed": true,
       "locationPrivate": false,
       "subId": "S322571459",
       "locId": "L794140",
@@ -1076,23 +1110,6 @@
       "speciesLink": "https://ebird.org/species/tufduc"
     },
     {
-      "speciesCode": "chiswi",
-      "comName": "Chimney Swift",
-      "sciName": "Chaetura pelagica",
-      "locName": "Hempstead Lake SP--south end",
-      "lat": 40.6724362,
-      "lng": -73.6499405,
-      "obsDt": "2026-04-16 10:25",
-      "howMany": 1,
-      "obsValid": false,
-      "obsReviewed": false,
-      "locationPrivate": false,
-      "subId": "S322483841",
-      "locId": "L476032",
-      "checklistLink": "https://ebird.org/checklist/S322483841",
-      "speciesLink": "https://ebird.org/species/chiswi"
-    },
-    {
       "speciesCode": "norpar",
       "comName": "Northern Parula",
       "sciName": "Setophaga americana",
@@ -1108,6 +1125,23 @@
       "locId": "L476032",
       "checklistLink": "https://ebird.org/checklist/S322483841",
       "speciesLink": "https://ebird.org/species/norpar"
+    },
+    {
+      "speciesCode": "chiswi",
+      "comName": "Chimney Swift",
+      "sciName": "Chaetura pelagica",
+      "locName": "Hempstead Lake SP--south end",
+      "lat": 40.6724362,
+      "lng": -73.6499405,
+      "obsDt": "2026-04-16 10:25",
+      "howMany": 1,
+      "obsValid": false,
+      "obsReviewed": false,
+      "locationPrivate": false,
+      "subId": "S322483841",
+      "locId": "L476032",
+      "checklistLink": "https://ebird.org/checklist/S322483841",
+      "speciesLink": "https://ebird.org/species/chiswi"
     },
     {
       "speciesCode": "brwhaw",
@@ -1271,30 +1305,13 @@
       "lng": -73.9572222,
       "obsDt": "2026-04-16 09:49",
       "howMany": 1,
-      "obsValid": false,
-      "obsReviewed": false,
+      "obsValid": true,
+      "obsReviewed": true,
       "locationPrivate": false,
       "subId": "S322480143",
       "locId": "L277988",
       "checklistLink": "https://ebird.org/checklist/S322480143",
       "speciesLink": "https://ebird.org/species/grnher"
-    },
-    {
-      "speciesCode": "snoegr",
-      "comName": "Snowy Egret",
-      "sciName": "Egretta thula",
-      "locName": "Lake Alice WMA",
-      "lat": 44.8713211,
-      "lng": -73.4802532,
-      "obsDt": "2026-04-16 09:46",
-      "howMany": 1,
-      "obsValid": false,
-      "obsReviewed": false,
-      "locationPrivate": false,
-      "subId": "S322515305",
-      "locId": "L574297",
-      "checklistLink": "https://ebird.org/checklist/S322515305",
-      "speciesLink": "https://ebird.org/species/snoegr"
     },
     {
       "speciesCode": "grycat",
@@ -1312,6 +1329,23 @@
       "locId": "L1355596",
       "checklistLink": "https://ebird.org/checklist/S322489787",
       "speciesLink": "https://ebird.org/species/grycat"
+    },
+    {
+      "speciesCode": "snoegr",
+      "comName": "Snowy Egret",
+      "sciName": "Egretta thula",
+      "locName": "Lake Alice WMA",
+      "lat": 44.8713211,
+      "lng": -73.4802532,
+      "obsDt": "2026-04-16 09:46",
+      "howMany": 1,
+      "obsValid": false,
+      "obsReviewed": false,
+      "locationPrivate": false,
+      "subId": "S322515305",
+      "locId": "L574297",
+      "checklistLink": "https://ebird.org/checklist/S322515305",
+      "speciesLink": "https://ebird.org/species/snoegr"
     },
     {
       "speciesCode": "balori",
@@ -1427,9 +1461,9 @@
       "obsValid": false,
       "obsReviewed": false,
       "locationPrivate": true,
-      "subId": "S322591849",
+      "subId": "S322511441",
       "locId": "L4132862",
-      "checklistLink": "https://ebird.org/checklist/S322591849",
+      "checklistLink": "https://ebird.org/checklist/S322511441",
       "speciesLink": "https://ebird.org/species/purfin"
     },
     {
@@ -1509,8 +1543,8 @@
       "lng": -73.9578,
       "obsDt": "2026-04-16 09:19",
       "howMany": 1,
-      "obsValid": false,
-      "obsReviewed": false,
+      "obsValid": true,
+      "obsReviewed": true,
       "locationPrivate": true,
       "subId": "S322534006",
       "locId": "L16504690",
@@ -1526,8 +1560,8 @@
       "lng": -73.959562,
       "obsDt": "2026-04-16 09:16",
       "howMany": 1,
-      "obsValid": false,
-      "obsReviewed": false,
+      "obsValid": true,
+      "obsReviewed": true,
       "locationPrivate": true,
       "subId": "S322477445",
       "locId": "L9989936",
@@ -1552,21 +1586,21 @@
       "speciesLink": "https://ebird.org/species/gloibi"
     },
     {
-      "speciesCode": "robgro",
-      "comName": "Rose-breasted Grosbeak",
-      "sciName": "Pheucticus ludovicianus",
-      "locName": "Drumlins Terrace, Syracuse",
-      "lat": 43.0175759,
-      "lng": -76.1001813,
-      "obsDt": "2026-04-16 09:00",
-      "howMany": 2,
+      "speciesCode": "purfin",
+      "comName": "Purple Finch",
+      "sciName": "Haemorhous purpureus",
+      "locName": "Central Park--The Ramble",
+      "lat": 40.7779667,
+      "lng": -73.9697165,
+      "obsDt": "2026-04-16 09:05",
+      "howMany": 1,
       "obsValid": false,
       "obsReviewed": false,
-      "locationPrivate": true,
-      "subId": "S322446349",
-      "locId": "L5573267",
-      "checklistLink": "https://ebird.org/checklist/S322446349",
-      "speciesLink": "https://ebird.org/species/robgro"
+      "locationPrivate": false,
+      "subId": "S322729278",
+      "locId": "L109518",
+      "checklistLink": "https://ebird.org/checklist/S322729278",
+      "speciesLink": "https://ebird.org/species/purfin"
     },
     {
       "speciesCode": "truswa",
@@ -1620,6 +1654,23 @@
       "speciesLink": "https://ebird.org/species/purfin"
     },
     {
+      "speciesCode": "robgro",
+      "comName": "Rose-breasted Grosbeak",
+      "sciName": "Pheucticus ludovicianus",
+      "locName": "Drumlins Terrace, Syracuse",
+      "lat": 43.0175759,
+      "lng": -76.1001813,
+      "obsDt": "2026-04-16 09:00",
+      "howMany": 2,
+      "obsValid": false,
+      "obsReviewed": false,
+      "locationPrivate": true,
+      "subId": "S322446349",
+      "locId": "L5573267",
+      "checklistLink": "https://ebird.org/checklist/S322446349",
+      "speciesLink": "https://ebird.org/species/robgro"
+    },
+    {
       "speciesCode": "purfin",
       "comName": "Purple Finch",
       "sciName": "Haemorhous purpureus",
@@ -1640,18 +1691,35 @@
       "speciesCode": "robgro",
       "comName": "Rose-breasted Grosbeak",
       "sciName": "Pheucticus ludovicianus",
-      "locName": "6 Maddy Groves Rd, Greenfield Center US-NY 43.11442, -73.83198",
-      "lat": 43.114417,
-      "lng": -73.831979,
+      "locName": "6\u201398 Maddy Groves Rd, Greenfield Center US-NY (43.1145,-73.8314)",
+      "lat": 43.114476,
+      "lng": -73.831388,
       "obsDt": "2026-04-16 08:56",
       "howMany": 1,
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": true,
       "subId": "S322423050",
-      "locId": "L59267551",
+      "locId": "L62998971",
       "checklistLink": "https://ebird.org/checklist/S322423050",
       "speciesLink": "https://ebird.org/species/robgro"
+    },
+    {
+      "speciesCode": "yelwar1",
+      "comName": "Northern Yellow Warbler",
+      "sciName": "Setophaga aestiva",
+      "locName": "Fort Tryon Park",
+      "lat": 40.8629374,
+      "lng": -73.9327457,
+      "obsDt": "2026-04-16 08:54",
+      "howMany": 1,
+      "obsValid": true,
+      "obsReviewed": true,
+      "locationPrivate": false,
+      "subId": "S322457622",
+      "locId": "L591127",
+      "checklistLink": "https://ebird.org/checklist/S322457622",
+      "speciesLink": "https://ebird.org/species/yelwar1"
     },
     {
       "speciesCode": "norpar",
@@ -1671,21 +1739,38 @@
       "speciesLink": "https://ebird.org/species/norpar"
     },
     {
-      "speciesCode": "yelwar1",
-      "comName": "Northern Yellow Warbler",
-      "sciName": "Setophaga aestiva",
-      "locName": "Fort Tryon Park",
-      "lat": 40.8629374,
-      "lng": -73.9327457,
-      "obsDt": "2026-04-16 08:54",
+      "speciesCode": "btnwar",
+      "comName": "Black-throated Green Warbler",
+      "sciName": "Setophaga virens",
+      "locName": "Jamaica Bay Wildlife Refuge",
+      "lat": 40.6170296,
+      "lng": -73.8244561,
+      "obsDt": "2026-04-16 08:53",
       "howMany": 1,
       "obsValid": false,
       "obsReviewed": false,
       "locationPrivate": false,
-      "subId": "S322457622",
-      "locId": "L591127",
-      "checklistLink": "https://ebird.org/checklist/S322457622",
-      "speciesLink": "https://ebird.org/species/yelwar1"
+      "subId": "S322722529",
+      "locId": "L165143",
+      "checklistLink": "https://ebird.org/checklist/S322722529",
+      "speciesLink": "https://ebird.org/species/btnwar"
+    },
+    {
+      "speciesCode": "norpar",
+      "comName": "Northern Parula",
+      "sciName": "Setophaga americana",
+      "locName": "Jamaica Bay Wildlife Refuge",
+      "lat": 40.6170296,
+      "lng": -73.8244561,
+      "obsDt": "2026-04-16 08:53",
+      "howMany": 1,
+      "obsValid": false,
+      "obsReviewed": false,
+      "locationPrivate": false,
+      "subId": "S322722529",
+      "locId": "L165143",
+      "checklistLink": "https://ebird.org/checklist/S322722529",
+      "speciesLink": "https://ebird.org/species/norpar"
     },
     {
       "speciesCode": "comgal1",
@@ -1737,23 +1822,6 @@
       "locId": "L3543365",
       "checklistLink": "https://ebird.org/checklist/S322454677",
       "speciesLink": "https://ebird.org/species/houwre"
-    },
-    {
-      "speciesCode": "purfin",
-      "comName": "Purple Finch",
-      "sciName": "Haemorhous purpureus",
-      "locName": "Central Park--The Ramble",
-      "lat": 40.7779667,
-      "lng": -73.9697165,
-      "obsDt": "2026-04-16 08:45",
-      "howMany": 1,
-      "obsValid": false,
-      "obsReviewed": false,
-      "locationPrivate": false,
-      "subId": "S322507301",
-      "locId": "L109518",
-      "checklistLink": "https://ebird.org/checklist/S322507301",
-      "speciesLink": "https://ebird.org/species/purfin"
     },
     {
       "speciesCode": "yetwar2",
@@ -1869,9 +1937,9 @@
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": false,
-      "subId": "S322632706",
+      "subId": "S322632708",
       "locId": "L3763040",
-      "checklistLink": "https://ebird.org/checklist/S322632706",
+      "checklistLink": "https://ebird.org/checklist/S322632708",
       "speciesLink": "https://ebird.org/species/redcro"
     },
     {
@@ -2009,23 +2077,6 @@
       "locId": "L300494",
       "checklistLink": "https://ebird.org/checklist/S322413830",
       "speciesLink": "https://ebird.org/species/houwre"
-    },
-    {
-      "speciesCode": "sumtan",
-      "comName": "Summer Tanager",
-      "sciName": "Piranga rubra",
-      "locName": "Prospect Park, New York US-NY 40.67156, -73.97009",
-      "lat": 40.67156,
-      "lng": -73.970089,
-      "obsDt": "2026-04-16 07:47",
-      "howMany": 1,
-      "obsValid": false,
-      "obsReviewed": false,
-      "locationPrivate": true,
-      "subId": "S322508179",
-      "locId": "L54874769",
-      "checklistLink": "https://ebird.org/checklist/S322508179",
-      "speciesLink": "https://ebird.org/species/sumtan"
     },
     {
       "speciesCode": "sumtan",
@@ -2206,8 +2257,8 @@
       "lng": -73.9572222,
       "obsDt": "2026-04-16 07:25",
       "howMany": 1,
-      "obsValid": false,
-      "obsReviewed": false,
+      "obsValid": true,
+      "obsReviewed": true,
       "locationPrivate": false,
       "subId": "S322433457",
       "locId": "L277988",
@@ -2257,30 +2308,13 @@
       "lng": -73.9558947,
       "obsDt": "2026-04-16 07:18",
       "howMany": 2,
-      "obsValid": false,
-      "obsReviewed": false,
+      "obsValid": true,
+      "obsReviewed": true,
       "locationPrivate": false,
       "subId": "S322571911",
       "locId": "L794140",
       "checklistLink": "https://ebird.org/checklist/S322571911",
       "speciesLink": "https://ebird.org/species/purfin"
-    },
-    {
-      "speciesCode": "bohwax",
-      "comName": "Bohemian Waxwing",
-      "sciName": "Bombycilla garrulus",
-      "locName": "Terry Gordon Trail",
-      "lat": 44.6879717,
-      "lng": -73.4458098,
-      "obsDt": "2026-04-16 07:15",
-      "howMany": 50,
-      "obsValid": false,
-      "obsReviewed": false,
-      "locationPrivate": true,
-      "subId": "S322369092",
-      "locId": "L62932137",
-      "checklistLink": "https://ebird.org/checklist/S322369092",
-      "speciesLink": "https://ebird.org/species/bohwax"
     },
     {
       "speciesCode": "yelwar1",
@@ -2298,6 +2332,23 @@
       "locId": "L786456",
       "checklistLink": "https://ebird.org/checklist/S322490904",
       "speciesLink": "https://ebird.org/species/yelwar1"
+    },
+    {
+      "speciesCode": "bohwax",
+      "comName": "Bohemian Waxwing",
+      "sciName": "Bombycilla garrulus",
+      "locName": "Terry Gordon Trail",
+      "lat": 44.6879717,
+      "lng": -73.4458098,
+      "obsDt": "2026-04-16 07:15",
+      "howMany": 50,
+      "obsValid": false,
+      "obsReviewed": false,
+      "locationPrivate": true,
+      "subId": "S322369092",
+      "locId": "L62932137",
+      "checklistLink": "https://ebird.org/checklist/S322369092",
+      "speciesLink": "https://ebird.org/species/bohwax"
     },
     {
       "speciesCode": "houwre",
@@ -2368,6 +2419,23 @@
       "speciesLink": "https://ebird.org/species/bongul"
     },
     {
+      "speciesCode": "balori",
+      "comName": "Baltimore Oriole",
+      "sciName": "Icterus galbula",
+      "locName": "Rockefeller SP Preserve",
+      "lat": 41.10804,
+      "lng": -73.8378825,
+      "obsDt": "2026-04-16 06:53",
+      "howMany": 1,
+      "obsValid": false,
+      "obsReviewed": false,
+      "locationPrivate": false,
+      "subId": "S322424071",
+      "locId": "L299350",
+      "checklistLink": "https://ebird.org/checklist/S322424071",
+      "speciesLink": "https://ebird.org/species/balori"
+    },
+    {
       "speciesCode": "woewar1",
       "comName": "Worm-eating Warbler",
       "sciName": "Helmitheros vermivorum",
@@ -2402,23 +2470,6 @@
       "speciesLink": "https://ebird.org/species/purfin"
     },
     {
-      "speciesCode": "balori",
-      "comName": "Baltimore Oriole",
-      "sciName": "Icterus galbula",
-      "locName": "Rockefeller SP Preserve",
-      "lat": 41.10804,
-      "lng": -73.8378825,
-      "obsDt": "2026-04-16 06:53",
-      "howMany": 1,
-      "obsValid": false,
-      "obsReviewed": false,
-      "locationPrivate": false,
-      "subId": "S322424071",
-      "locId": "L299350",
-      "checklistLink": "https://ebird.org/checklist/S322424071",
-      "speciesLink": "https://ebird.org/species/balori"
-    },
-    {
       "speciesCode": "evegro3",
       "comName": "Evening Grosbeak (Eastern or type 3)",
       "sciName": "Hesperiphona vespertina",
@@ -2451,6 +2502,23 @@
       "locId": "L45091026",
       "checklistLink": "https://ebird.org/checklist/S322376360",
       "speciesLink": "https://ebird.org/species/amebit"
+    },
+    {
+      "speciesCode": "yetwar",
+      "comName": "Yellow-throated Warbler",
+      "sciName": "Setophaga dominica",
+      "locName": "Inwood Hill Park",
+      "lat": 40.8717025,
+      "lng": -73.9256904,
+      "obsDt": "2026-04-16 06:43",
+      "howMany": 1,
+      "obsValid": false,
+      "obsReviewed": false,
+      "locationPrivate": false,
+      "subId": "S322723138",
+      "locId": "L684740",
+      "checklistLink": "https://ebird.org/checklist/S322723138",
+      "speciesLink": "https://ebird.org/species/yetwar"
     },
     {
       "speciesCode": "evegro",
@@ -2643,6 +2711,23 @@
       "speciesCode": "graspa",
       "comName": "Grasshopper Sparrow",
       "sciName": "Ammodramus savannarum",
+      "locName": "Tessier-Sullivan Property NFC Station",
+      "lat": 43.6559279,
+      "lng": -76.0872172,
+      "obsDt": "2026-04-16 01:14",
+      "howMany": 1,
+      "obsValid": false,
+      "obsReviewed": false,
+      "locationPrivate": true,
+      "subId": "S322728439",
+      "locId": "L62911607",
+      "checklistLink": "https://ebird.org/checklist/S322728439",
+      "speciesLink": "https://ebird.org/species/graspa"
+    },
+    {
+      "speciesCode": "graspa",
+      "comName": "Grasshopper Sparrow",
+      "sciName": "Ammodramus savannarum",
       "locName": "28 breezewood",
       "lat": 42.7481625,
       "lng": -78.7519151,
@@ -2776,23 +2861,6 @@
       "speciesLink": "https://ebird.org/species/norpar"
     },
     {
-      "speciesCode": "solsan",
-      "comName": "Solitary Sandpiper",
-      "sciName": "Tringa solitaria",
-      "locName": "Upper Lisle County Park--Merrill Creek Overlook",
-      "lat": 42.3993731,
-      "lng": -75.9722073,
-      "obsDt": "2026-04-15 17:58",
-      "howMany": 1,
-      "obsValid": false,
-      "obsReviewed": false,
-      "locationPrivate": false,
-      "subId": "S322216031",
-      "locId": "L6169708",
-      "checklistLink": "https://ebird.org/checklist/S322216031",
-      "speciesLink": "https://ebird.org/species/solsan"
-    },
-    {
       "speciesCode": "pecsan",
       "comName": "Pectoral Sandpiper",
       "sciName": "Calidris melanotos",
@@ -2808,6 +2876,23 @@
       "locId": "L6169708",
       "checklistLink": "https://ebird.org/checklist/S322216031",
       "speciesLink": "https://ebird.org/species/pecsan"
+    },
+    {
+      "speciesCode": "solsan",
+      "comName": "Solitary Sandpiper",
+      "sciName": "Tringa solitaria",
+      "locName": "Upper Lisle County Park--Merrill Creek Overlook",
+      "lat": 42.3993731,
+      "lng": -75.9722073,
+      "obsDt": "2026-04-15 17:58",
+      "howMany": 1,
+      "obsValid": false,
+      "obsReviewed": false,
+      "locationPrivate": false,
+      "subId": "S322216031",
+      "locId": "L6169708",
+      "checklistLink": "https://ebird.org/checklist/S322216031",
+      "speciesLink": "https://ebird.org/species/solsan"
     },
     {
       "speciesCode": "sursco",
@@ -2855,9 +2940,9 @@
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": false,
-      "subId": "S322231516",
+      "subId": "S322212288",
       "locId": "L293510",
-      "checklistLink": "https://ebird.org/checklist/S322231516",
+      "checklistLink": "https://ebird.org/checklist/S322212288",
       "speciesLink": "https://ebird.org/species/triher"
     },
     {
@@ -2974,9 +3059,9 @@
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": false,
-      "subId": "S322250515",
+      "subId": "S322250504",
       "locId": "L109516",
-      "checklistLink": "https://ebird.org/checklist/S322250515",
+      "checklistLink": "https://ebird.org/checklist/S322250504",
       "speciesLink": "https://ebird.org/species/purmar"
     },
     {
@@ -2997,23 +3082,6 @@
       "speciesLink": "https://ebird.org/species/whcspa"
     },
     {
-      "speciesCode": "norpar",
-      "comName": "Northern Parula",
-      "sciName": "Setophaga americana",
-      "locName": "Central Park--The Ravine (incl. The Loch)",
-      "lat": 40.794956,
-      "lng": -73.9572222,
-      "obsDt": "2026-04-15 14:59",
-      "howMany": 1,
-      "obsValid": true,
-      "obsReviewed": true,
-      "locationPrivate": false,
-      "subId": "S322190471",
-      "locId": "L277988",
-      "checklistLink": "https://ebird.org/checklist/S322190471",
-      "speciesLink": "https://ebird.org/species/norpar"
-    },
-    {
       "speciesCode": "purfin",
       "comName": "Purple Finch",
       "sciName": "Haemorhous purpureus",
@@ -3029,6 +3097,23 @@
       "locId": "L16621069",
       "checklistLink": "https://ebird.org/checklist/S322179245",
       "speciesLink": "https://ebird.org/species/purfin"
+    },
+    {
+      "speciesCode": "norpar",
+      "comName": "Northern Parula",
+      "sciName": "Setophaga americana",
+      "locName": "Central Park--The Ravine (incl. The Loch)",
+      "lat": 40.794956,
+      "lng": -73.9572222,
+      "obsDt": "2026-04-15 14:59",
+      "howMany": 1,
+      "obsValid": true,
+      "obsReviewed": true,
+      "locationPrivate": false,
+      "subId": "S322190471",
+      "locId": "L277988",
+      "checklistLink": "https://ebird.org/checklist/S322190471",
+      "speciesLink": "https://ebird.org/species/norpar"
     },
     {
       "speciesCode": "bongul",
@@ -3076,9 +3161,9 @@
       "obsValid": false,
       "obsReviewed": false,
       "locationPrivate": false,
-      "subId": "S322159358",
+      "subId": "S322191330",
       "locId": "L681420",
-      "checklistLink": "https://ebird.org/checklist/S322159358",
+      "checklistLink": "https://ebird.org/checklist/S322191330",
       "speciesLink": "https://ebird.org/species/yetvir"
     },
     {
@@ -3473,23 +3558,6 @@
       "speciesLink": "https://ebird.org/species/balori"
     },
     {
-      "speciesCode": "rolhaw",
-      "comName": "Rough-legged Hawk",
-      "sciName": "Buteo lagopus",
-      "locName": "Whallons Bay Rd.-Clark Rd.-Cross Rd. Grasslands",
-      "lat": 44.2639,
-      "lng": -73.385,
-      "obsDt": "2026-04-15 11:13",
-      "howMany": 1,
-      "obsValid": false,
-      "obsReviewed": false,
-      "locationPrivate": false,
-      "subId": "S322065403",
-      "locId": "L2507877",
-      "checklistLink": "https://ebird.org/checklist/S322065403",
-      "speciesLink": "https://ebird.org/species/rolhaw"
-    },
-    {
       "speciesCode": "ameoys",
       "comName": "American Oystercatcher",
       "sciName": "Haematopus palliatus",
@@ -3505,6 +3573,23 @@
       "locId": "L555894",
       "checklistLink": "https://ebird.org/checklist/S322150692",
       "speciesLink": "https://ebird.org/species/ameoys"
+    },
+    {
+      "speciesCode": "rolhaw",
+      "comName": "Rough-legged Hawk",
+      "sciName": "Buteo lagopus",
+      "locName": "Whallons Bay Rd.-Clark Rd.-Cross Rd. Grasslands",
+      "lat": 44.2639,
+      "lng": -73.385,
+      "obsDt": "2026-04-15 11:13",
+      "howMany": 1,
+      "obsValid": false,
+      "obsReviewed": false,
+      "locationPrivate": false,
+      "subId": "S322065403",
+      "locId": "L2507877",
+      "checklistLink": "https://ebird.org/checklist/S322065403",
+      "speciesLink": "https://ebird.org/species/rolhaw"
     },
     {
       "speciesCode": "redcro",
@@ -3558,23 +3643,6 @@
       "speciesLink": "https://ebird.org/species/snogoo"
     },
     {
-      "speciesCode": "solsan",
-      "comName": "Solitary Sandpiper",
-      "sciName": "Tringa solitaria",
-      "locName": "Upper Lisle County Park",
-      "lat": 42.3970664,
-      "lng": -75.9642321,
-      "obsDt": "2026-04-15 10:25",
-      "howMany": 1,
-      "obsValid": false,
-      "obsReviewed": false,
-      "locationPrivate": false,
-      "subId": "S322070256",
-      "locId": "L212514",
-      "checklistLink": "https://ebird.org/checklist/S322070256",
-      "speciesLink": "https://ebird.org/species/solsan"
-    },
-    {
       "speciesCode": "pecsan",
       "comName": "Pectoral Sandpiper",
       "sciName": "Calidris melanotos",
@@ -3590,6 +3658,23 @@
       "locId": "L212514",
       "checklistLink": "https://ebird.org/checklist/S322070256",
       "speciesLink": "https://ebird.org/species/pecsan"
+    },
+    {
+      "speciesCode": "solsan",
+      "comName": "Solitary Sandpiper",
+      "sciName": "Tringa solitaria",
+      "locName": "Upper Lisle County Park",
+      "lat": 42.3970664,
+      "lng": -75.9642321,
+      "obsDt": "2026-04-15 10:25",
+      "howMany": 1,
+      "obsValid": false,
+      "obsReviewed": false,
+      "locationPrivate": false,
+      "subId": "S322070256",
+      "locId": "L212514",
+      "checklistLink": "https://ebird.org/checklist/S322070256",
+      "speciesLink": "https://ebird.org/species/solsan"
     },
     {
       "speciesCode": "purfin",
@@ -3609,23 +3694,6 @@
       "speciesLink": "https://ebird.org/species/purfin"
     },
     {
-      "speciesCode": "lbbgul",
-      "comName": "Lesser Black-backed Gull",
-      "sciName": "Larus fuscus",
-      "locName": "Bush Terminal Piers Park",
-      "lat": 40.6541609,
-      "lng": -74.0204451,
-      "obsDt": "2026-04-15 09:52",
-      "howMany": 1,
-      "obsValid": true,
-      "obsReviewed": true,
-      "locationPrivate": false,
-      "subId": "S322098131",
-      "locId": "L3151880",
-      "checklistLink": "https://ebird.org/checklist/S322098131",
-      "speciesLink": "https://ebird.org/species/lbbgul"
-    },
-    {
       "speciesCode": "glagul",
       "comName": "Glaucous Gull",
       "sciName": "Larus hyperboreus",
@@ -3643,6 +3711,23 @@
       "speciesLink": "https://ebird.org/species/glagul"
     },
     {
+      "speciesCode": "lbbgul",
+      "comName": "Lesser Black-backed Gull",
+      "sciName": "Larus fuscus",
+      "locName": "Bush Terminal Piers Park",
+      "lat": 40.6541609,
+      "lng": -74.0204451,
+      "obsDt": "2026-04-15 09:52",
+      "howMany": 1,
+      "obsValid": true,
+      "obsReviewed": true,
+      "locationPrivate": false,
+      "subId": "S322098131",
+      "locId": "L3151880",
+      "checklistLink": "https://ebird.org/checklist/S322098131",
+      "speciesLink": "https://ebird.org/species/lbbgul"
+    },
+    {
       "speciesCode": "virrai",
       "comName": "Virginia Rail",
       "sciName": "Rallus limicola",
@@ -3651,8 +3736,8 @@
       "lng": -73.9832322,
       "obsDt": "2026-04-15 09:52",
       "howMany": 1,
-      "obsValid": false,
-      "obsReviewed": false,
+      "obsValid": true,
+      "obsReviewed": true,
       "locationPrivate": false,
       "subId": "S322027203",
       "locId": "L683555",
@@ -3762,23 +3847,6 @@
       "speciesLink": "https://ebird.org/species/pilwoo"
     },
     {
-      "speciesCode": "norpar",
-      "comName": "Northern Parula",
-      "sciName": "Setophaga americana",
-      "locName": "Maple Grove Cemetery, Queens",
-      "lat": 40.7074758,
-      "lng": -73.8237593,
-      "obsDt": "2026-04-15 09:05",
-      "howMany": 1,
-      "obsValid": true,
-      "obsReviewed": true,
-      "locationPrivate": false,
-      "subId": "S322134635",
-      "locId": "L1004471",
-      "checklistLink": "https://ebird.org/checklist/S322134635",
-      "speciesLink": "https://ebird.org/species/norpar"
-    },
-    {
       "speciesCode": "rthhum",
       "comName": "Ruby-throated Hummingbird",
       "sciName": "Archilochus colubris",
@@ -3794,6 +3862,23 @@
       "locId": "L62489995",
       "checklistLink": "https://ebird.org/checklist/S321998893",
       "speciesLink": "https://ebird.org/species/rthhum"
+    },
+    {
+      "speciesCode": "norpar",
+      "comName": "Northern Parula",
+      "sciName": "Setophaga americana",
+      "locName": "Maple Grove Cemetery, Queens",
+      "lat": 40.7074758,
+      "lng": -73.8237593,
+      "obsDt": "2026-04-15 09:05",
+      "howMany": 1,
+      "obsValid": true,
+      "obsReviewed": true,
+      "locationPrivate": false,
+      "subId": "S322134635",
+      "locId": "L1004471",
+      "checklistLink": "https://ebird.org/checklist/S322134635",
+      "speciesLink": "https://ebird.org/species/norpar"
     },
     {
       "speciesCode": "banswa",
@@ -4011,9 +4096,9 @@
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": false,
-      "subId": "S322031487",
+      "subId": "S322005574",
       "locId": "L297912",
-      "checklistLink": "https://ebird.org/checklist/S322031487",
+      "checklistLink": "https://ebird.org/checklist/S322005574",
       "speciesLink": "https://ebird.org/species/comyel"
     },
     {
@@ -4062,9 +4147,9 @@
       "obsValid": false,
       "obsReviewed": false,
       "locationPrivate": false,
-      "subId": "S322008891",
+      "subId": "S322008892",
       "locId": "L3214441",
-      "checklistLink": "https://ebird.org/checklist/S322008891",
+      "checklistLink": "https://ebird.org/checklist/S322008892",
       "speciesLink": "https://ebird.org/species/neocor"
     },
     {
@@ -4255,23 +4340,6 @@
       "speciesLink": "https://ebird.org/species/lesyel"
     },
     {
-      "speciesCode": "sposan",
-      "comName": "Spotted Sandpiper",
-      "sciName": "Actitis macularius",
-      "locName": "Mt. Loretto Unique Area",
-      "lat": 40.5072899,
-      "lng": -74.2180324,
-      "obsDt": "2026-04-15 06:43",
-      "howMany": 1,
-      "obsValid": true,
-      "obsReviewed": true,
-      "locationPrivate": false,
-      "subId": "S322129678",
-      "locId": "L293510",
-      "checklistLink": "https://ebird.org/checklist/S322129678",
-      "speciesLink": "https://ebird.org/species/sposan"
-    },
-    {
       "speciesCode": "amebit",
       "comName": "American Bittern",
       "sciName": "Botaurus lentiginosus",
@@ -4287,6 +4355,23 @@
       "locId": "L293510",
       "checklistLink": "https://ebird.org/checklist/S322129678",
       "speciesLink": "https://ebird.org/species/amebit"
+    },
+    {
+      "speciesCode": "sposan",
+      "comName": "Spotted Sandpiper",
+      "sciName": "Actitis macularius",
+      "locName": "Mt. Loretto Unique Area",
+      "lat": 40.5072899,
+      "lng": -74.2180324,
+      "obsDt": "2026-04-15 06:43",
+      "howMany": 1,
+      "obsValid": true,
+      "obsReviewed": true,
+      "locationPrivate": false,
+      "subId": "S322129678",
+      "locId": "L293510",
+      "checklistLink": "https://ebird.org/checklist/S322129678",
+      "speciesLink": "https://ebird.org/species/sposan"
     },
     {
       "speciesCode": "ovenbi1",
@@ -4351,9 +4436,9 @@
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": false,
-      "subId": "S322022902",
+      "subId": "S321999783",
       "locId": "L277988",
-      "checklistLink": "https://ebird.org/checklist/S322022902",
+      "checklistLink": "https://ebird.org/checklist/S321999783",
       "speciesLink": "https://ebird.org/species/norwat"
     },
     {
@@ -4425,23 +4510,6 @@
       "speciesLink": "https://ebird.org/species/blkvul"
     },
     {
-      "speciesCode": "triher",
-      "comName": "Tricolored Heron",
-      "sciName": "Egretta tricolor",
-      "locName": "Rail Trail Swamp",
-      "lat": 44.295485,
-      "lng": -74.08445,
-      "obsDt": "2026-04-14 18:30",
-      "howMany": 1,
-      "obsValid": false,
-      "obsReviewed": false,
-      "locationPrivate": true,
-      "subId": "S321794901",
-      "locId": "L62824275",
-      "checklistLink": "https://ebird.org/checklist/S321794901",
-      "speciesLink": "https://ebird.org/species/triher"
-    },
-    {
       "speciesCode": "tufduc",
       "comName": "Tufted Duck",
       "sciName": "Aythya fuligula",
@@ -4457,6 +4525,23 @@
       "locId": "L444842",
       "checklistLink": "https://ebird.org/checklist/S321844911",
       "speciesLink": "https://ebird.org/species/tufduc"
+    },
+    {
+      "speciesCode": "triher",
+      "comName": "Tricolored Heron",
+      "sciName": "Egretta tricolor",
+      "locName": "Rail Trail Swamp",
+      "lat": 44.295485,
+      "lng": -74.08445,
+      "obsDt": "2026-04-14 18:30",
+      "howMany": 1,
+      "obsValid": false,
+      "obsReviewed": false,
+      "locationPrivate": true,
+      "subId": "S321794901",
+      "locId": "L62824275",
+      "checklistLink": "https://ebird.org/checklist/S321794901",
+      "speciesLink": "https://ebird.org/species/triher"
     },
     {
       "speciesCode": "y00478",
@@ -4501,8 +4586,8 @@
       "lng": -73.9558947,
       "obsDt": "2026-04-14 18:05",
       "howMany": 1,
-      "obsValid": false,
-      "obsReviewed": false,
+      "obsValid": true,
+      "obsReviewed": true,
       "locationPrivate": false,
       "subId": "S322565292",
       "locId": "L794140",
@@ -4561,23 +4646,6 @@
       "speciesLink": "https://ebird.org/species/amebit"
     },
     {
-      "speciesCode": "blkvul",
-      "comName": "Black Vulture",
-      "sciName": "Coragyps atratus",
-      "locName": "Peconic River, Peconic Ave.",
-      "lat": 40.9156868,
-      "lng": -72.660892,
-      "obsDt": "2026-04-14 17:40",
-      "howMany": 2,
-      "obsValid": true,
-      "obsReviewed": true,
-      "locationPrivate": false,
-      "subId": "S321826342",
-      "locId": "L852310",
-      "checklistLink": "https://ebird.org/checklist/S321826342",
-      "speciesLink": "https://ebird.org/species/blkvul"
-    },
-    {
       "speciesCode": "triher",
       "comName": "Tricolored Heron",
       "sciName": "Egretta tricolor",
@@ -4593,6 +4661,23 @@
       "locId": "L62823705",
       "checklistLink": "https://ebird.org/checklist/S321791448",
       "speciesLink": "https://ebird.org/species/triher"
+    },
+    {
+      "speciesCode": "blkvul",
+      "comName": "Black Vulture",
+      "sciName": "Coragyps atratus",
+      "locName": "Peconic River, Peconic Ave.",
+      "lat": 40.9156868,
+      "lng": -72.660892,
+      "obsDt": "2026-04-14 17:40",
+      "howMany": 2,
+      "obsValid": true,
+      "obsReviewed": true,
+      "locationPrivate": false,
+      "subId": "S321826342",
+      "locId": "L852310",
+      "checklistLink": "https://ebird.org/checklist/S321826342",
+      "speciesLink": "https://ebird.org/species/blkvul"
     },
     {
       "speciesCode": "amebit",
@@ -4742,9 +4827,9 @@
       "obsValid": false,
       "obsReviewed": false,
       "locationPrivate": true,
-      "subId": "S321778672",
+      "subId": "S321793467",
       "locId": "L62810168",
-      "checklistLink": "https://ebird.org/checklist/S321778672",
+      "checklistLink": "https://ebird.org/checklist/S321793467",
       "speciesLink": "https://ebird.org/species/triher"
     },
     {
@@ -4765,23 +4850,6 @@
       "speciesLink": "https://ebird.org/species/marwre"
     },
     {
-      "speciesCode": "robgro",
-      "comName": "Rose-breasted Grosbeak",
-      "sciName": "Pheucticus ludovicianus",
-      "locName": "Casa Susana",
-      "lat": 42.9489499,
-      "lng": -76.2105829,
-      "obsDt": "2026-04-14 16:15",
-      "howMany": 1,
-      "obsValid": false,
-      "obsReviewed": false,
-      "locationPrivate": true,
-      "subId": "S321815012",
-      "locId": "L23084452",
-      "checklistLink": "https://ebird.org/checklist/S321815012",
-      "speciesLink": "https://ebird.org/species/robgro"
-    },
-    {
       "speciesCode": "amebit",
       "comName": "American Bittern",
       "sciName": "Botaurus lentiginosus",
@@ -4797,6 +4865,23 @@
       "locId": "L109516",
       "checklistLink": "https://ebird.org/checklist/S321748191",
       "speciesLink": "https://ebird.org/species/amebit"
+    },
+    {
+      "speciesCode": "robgro",
+      "comName": "Rose-breasted Grosbeak",
+      "sciName": "Pheucticus ludovicianus",
+      "locName": "Casa Susana",
+      "lat": 42.9489499,
+      "lng": -76.2105829,
+      "obsDt": "2026-04-14 16:15",
+      "howMany": 1,
+      "obsValid": false,
+      "obsReviewed": false,
+      "locationPrivate": true,
+      "subId": "S321815012",
+      "locId": "L23084452",
+      "checklistLink": "https://ebird.org/checklist/S321815012",
+      "speciesLink": "https://ebird.org/species/robgro"
     },
     {
       "speciesCode": "blkvul",
@@ -4833,23 +4918,6 @@
       "speciesLink": "https://ebird.org/species/sposan"
     },
     {
-      "speciesCode": "norwat",
-      "comName": "Northern Waterthrush",
-      "sciName": "Parkesia noveboracensis",
-      "locName": "Miller Place Duck Pond (aka Kelli's Pond)",
-      "lat": 40.9593319,
-      "lng": -72.996199,
-      "obsDt": "2026-04-14 15:25",
-      "howMany": 1,
-      "obsValid": false,
-      "obsReviewed": false,
-      "locationPrivate": false,
-      "subId": "S321743836",
-      "locId": "L3531042",
-      "checklistLink": "https://ebird.org/checklist/S321743836",
-      "speciesLink": "https://ebird.org/species/norwat"
-    },
-    {
       "speciesCode": "pilwoo",
       "comName": "Pileated Woodpecker",
       "sciName": "Dryocopus pileatus",
@@ -4861,9 +4929,9 @@
       "obsValid": false,
       "obsReviewed": false,
       "locationPrivate": false,
-      "subId": "S321757549",
+      "subId": "S321757550",
       "locId": "L1817859",
-      "checklistLink": "https://ebird.org/checklist/S321757549",
+      "checklistLink": "https://ebird.org/checklist/S321757550",
       "speciesLink": "https://ebird.org/species/pilwoo"
     },
     {
@@ -4882,6 +4950,23 @@
       "locId": "L62826106",
       "checklistLink": "https://ebird.org/checklist/S321806150",
       "speciesLink": "https://ebird.org/species/triher"
+    },
+    {
+      "speciesCode": "norwat",
+      "comName": "Northern Waterthrush",
+      "sciName": "Parkesia noveboracensis",
+      "locName": "Miller Place Duck Pond (aka Kelli's Pond)",
+      "lat": 40.9593319,
+      "lng": -72.996199,
+      "obsDt": "2026-04-14 15:25",
+      "howMany": 1,
+      "obsValid": false,
+      "obsReviewed": false,
+      "locationPrivate": false,
+      "subId": "S321743836",
+      "locId": "L3531042",
+      "checklistLink": "https://ebird.org/checklist/S321743836",
+      "speciesLink": "https://ebird.org/species/norwat"
     },
     {
       "speciesCode": "norpar",
@@ -4952,23 +5037,6 @@
       "speciesLink": "https://ebird.org/species/norpar"
     },
     {
-      "speciesCode": "norwat",
-      "comName": "Northern Waterthrush",
-      "sciName": "Parkesia noveboracensis",
-      "locName": "Central Park",
-      "lat": 40.7715482,
-      "lng": -73.9724819,
-      "obsDt": "2026-04-14 14:48",
-      "howMany": 1,
-      "obsValid": false,
-      "obsReviewed": false,
-      "locationPrivate": false,
-      "subId": "S321789514",
-      "locId": "L191106",
-      "checklistLink": "https://ebird.org/checklist/S321789514",
-      "speciesLink": "https://ebird.org/species/norwat"
-    },
-    {
       "speciesCode": "norpar",
       "comName": "Northern Parula",
       "sciName": "Setophaga americana",
@@ -4984,6 +5052,23 @@
       "locId": "L191106",
       "checklistLink": "https://ebird.org/checklist/S321789514",
       "speciesLink": "https://ebird.org/species/norpar"
+    },
+    {
+      "speciesCode": "norwat",
+      "comName": "Northern Waterthrush",
+      "sciName": "Parkesia noveboracensis",
+      "locName": "Central Park",
+      "lat": 40.7715482,
+      "lng": -73.9724819,
+      "obsDt": "2026-04-14 14:48",
+      "howMany": 1,
+      "obsValid": false,
+      "obsReviewed": false,
+      "locationPrivate": false,
+      "subId": "S321789514",
+      "locId": "L191106",
+      "checklistLink": "https://ebird.org/checklist/S321789514",
+      "speciesLink": "https://ebird.org/species/norwat"
     },
     {
       "speciesCode": "swathr",
@@ -5360,23 +5445,6 @@
       "speciesLink": "https://ebird.org/species/eargre"
     },
     {
-      "speciesCode": "glagul",
-      "comName": "Glaucous Gull",
-      "sciName": "Larus hyperboreus",
-      "locName": "Bush Terminal Piers Park",
-      "lat": 40.6541609,
-      "lng": -74.0204451,
-      "obsDt": "2026-04-14 11:28",
-      "howMany": 1,
-      "obsValid": true,
-      "obsReviewed": true,
-      "locationPrivate": false,
-      "subId": "S321681318",
-      "locId": "L3151880",
-      "checklistLink": "https://ebird.org/checklist/S321681318",
-      "speciesLink": "https://ebird.org/species/glagul"
-    },
-    {
       "speciesCode": "chiswi",
       "comName": "Chimney Swift",
       "sciName": "Chaetura pelagica",
@@ -5392,6 +5460,23 @@
       "locId": "L11132897",
       "checklistLink": "https://ebird.org/checklist/S321678656",
       "speciesLink": "https://ebird.org/species/chiswi"
+    },
+    {
+      "speciesCode": "glagul",
+      "comName": "Glaucous Gull",
+      "sciName": "Larus hyperboreus",
+      "locName": "Bush Terminal Piers Park",
+      "lat": 40.6541609,
+      "lng": -74.0204451,
+      "obsDt": "2026-04-14 11:28",
+      "howMany": 1,
+      "obsValid": true,
+      "obsReviewed": true,
+      "locationPrivate": false,
+      "subId": "S322070175",
+      "locId": "L3151880",
+      "checklistLink": "https://ebird.org/checklist/S322070175",
+      "speciesLink": "https://ebird.org/species/glagul"
     },
     {
       "speciesCode": "balori",
@@ -5496,23 +5581,6 @@
       "speciesLink": "https://ebird.org/species/neocor"
     },
     {
-      "speciesCode": "willet2",
-      "comName": "Willet (Eastern)",
-      "sciName": "Tringa semipalmata",
-      "locName": "306 Brevoort Ln, Rye US-NY 40.94653, -73.71213",
-      "lat": 40.94653,
-      "lng": -73.712133,
-      "obsDt": "2026-04-14 10:38",
-      "howMany": 1,
-      "obsValid": false,
-      "obsReviewed": false,
-      "locationPrivate": true,
-      "subId": "S321631310",
-      "locId": "L30420880",
-      "checklistLink": "https://ebird.org/checklist/S321631310",
-      "speciesLink": "https://ebird.org/species/willet2"
-    },
-    {
       "speciesCode": "sancra2",
       "comName": "Sandhill Crane (Greater)",
       "sciName": "Antigone canadensis",
@@ -5528,6 +5596,23 @@
       "locId": "L6731074",
       "checklistLink": "https://ebird.org/checklist/S321626730",
       "speciesLink": "https://ebird.org/species/sancra2"
+    },
+    {
+      "speciesCode": "willet2",
+      "comName": "Willet (Eastern)",
+      "sciName": "Tringa semipalmata",
+      "locName": "306 Brevoort Ln, Rye US-NY 40.94653, -73.71213",
+      "lat": 40.94653,
+      "lng": -73.712133,
+      "obsDt": "2026-04-14 10:38",
+      "howMany": 1,
+      "obsValid": false,
+      "obsReviewed": false,
+      "locationPrivate": true,
+      "subId": "S321631310",
+      "locId": "L30420880",
+      "checklistLink": "https://ebird.org/checklist/S321631310",
+      "speciesLink": "https://ebird.org/species/willet2"
     },
     {
       "speciesCode": "grecor",
@@ -5802,23 +5887,6 @@
       "speciesLink": "https://ebird.org/species/grycat"
     },
     {
-      "speciesCode": "blkvul",
-      "comName": "Black Vulture",
-      "sciName": "Coragyps atratus",
-      "locName": "Braddock Bay Park--Hawk Watch",
-      "lat": 43.30365,
-      "lng": -77.7163028,
-      "obsDt": "2026-04-14 08:30",
-      "howMany": 2,
-      "obsValid": true,
-      "obsReviewed": true,
-      "locationPrivate": false,
-      "subId": "S321832010",
-      "locId": "L109138",
-      "checklistLink": "https://ebird.org/checklist/S321832010",
-      "speciesLink": "https://ebird.org/species/blkvul"
-    },
-    {
       "speciesCode": "gwcspa",
       "comName": "White-crowned Sparrow (Gambel's)",
       "sciName": "Zonotrichia leucophrys",
@@ -5834,6 +5902,23 @@
       "locId": "L285884",
       "checklistLink": "https://ebird.org/checklist/S321601652",
       "speciesLink": "https://ebird.org/species/gwcspa"
+    },
+    {
+      "speciesCode": "blkvul",
+      "comName": "Black Vulture",
+      "sciName": "Coragyps atratus",
+      "locName": "Braddock Bay Park--Hawk Watch",
+      "lat": 43.30365,
+      "lng": -77.7163028,
+      "obsDt": "2026-04-14 08:30",
+      "howMany": 2,
+      "obsValid": true,
+      "obsReviewed": true,
+      "locationPrivate": false,
+      "subId": "S321832010",
+      "locId": "L109138",
+      "checklistLink": "https://ebird.org/checklist/S321832010",
+      "speciesLink": "https://ebird.org/species/blkvul"
     },
     {
       "speciesCode": "chiswi",
@@ -5989,23 +6074,6 @@
       "speciesLink": "https://ebird.org/species/sposan"
     },
     {
-      "speciesCode": "evegro",
-      "comName": "Evening Grosbeak",
-      "sciName": "Hesperiphona vespertina",
-      "locName": "165 Main Street, North Creek, New York, US (43.694, -73.985)",
-      "lat": 43.6941732,
-      "lng": -73.9846189,
-      "obsDt": "2026-04-14 07:17",
-      "howMany": 15,
-      "obsValid": true,
-      "obsReviewed": true,
-      "locationPrivate": true,
-      "subId": "S321517063",
-      "locId": "L41923859",
-      "checklistLink": "https://ebird.org/checklist/S321517063",
-      "speciesLink": "https://ebird.org/species/evegro"
-    },
-    {
       "speciesCode": "snogoo",
       "comName": "Snow Goose",
       "sciName": "Anser caerulescens",
@@ -6021,6 +6089,23 @@
       "locId": "L2866122",
       "checklistLink": "https://ebird.org/checklist/S321527584",
       "speciesLink": "https://ebird.org/species/snogoo"
+    },
+    {
+      "speciesCode": "evegro",
+      "comName": "Evening Grosbeak",
+      "sciName": "Hesperiphona vespertina",
+      "locName": "165 Main Street, North Creek, New York, US (43.694, -73.985)",
+      "lat": 43.6941732,
+      "lng": -73.9846189,
+      "obsDt": "2026-04-14 07:17",
+      "howMany": 15,
+      "obsValid": true,
+      "obsReviewed": true,
+      "locationPrivate": true,
+      "subId": "S321517063",
+      "locId": "L41923859",
+      "checklistLink": "https://ebird.org/checklist/S321517063",
+      "speciesLink": "https://ebird.org/species/evegro"
     },
     {
       "speciesCode": "redcro",
@@ -6051,9 +6136,9 @@
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": true,
-      "subId": "S321693597",
+      "subId": "S321777660",
       "locId": "L2758875",
-      "checklistLink": "https://ebird.org/checklist/S321693597",
+      "checklistLink": "https://ebird.org/checklist/S321777660",
       "speciesLink": "https://ebird.org/species/redcro"
     },
     {
@@ -6295,23 +6380,6 @@
       "speciesLink": "https://ebird.org/species/bawwar"
     },
     {
-      "speciesCode": "fiscro",
-      "comName": "Fish Crow",
-      "sciName": "Corvus ossifragus",
-      "locName": "Beaver Island SP--Beaver Island",
-      "lat": 42.9603249,
-      "lng": -78.9603013,
-      "obsDt": "2026-04-13 17:53",
-      "howMany": 1,
-      "obsValid": true,
-      "obsReviewed": true,
-      "locationPrivate": false,
-      "subId": "S321941387",
-      "locId": "L1781444",
-      "checklistLink": "https://ebird.org/checklist/S321941387",
-      "speciesLink": "https://ebird.org/species/fiscro"
-    },
-    {
       "speciesCode": "snoegr",
       "comName": "Snowy Egret",
       "sciName": "Egretta thula",
@@ -6327,6 +6395,23 @@
       "locId": "L1781444",
       "checklistLink": "https://ebird.org/checklist/S321941387",
       "speciesLink": "https://ebird.org/species/snoegr"
+    },
+    {
+      "speciesCode": "fiscro",
+      "comName": "Fish Crow",
+      "sciName": "Corvus ossifragus",
+      "locName": "Beaver Island SP--Beaver Island",
+      "lat": 42.9603249,
+      "lng": -78.9603013,
+      "obsDt": "2026-04-13 17:53",
+      "howMany": 1,
+      "obsValid": true,
+      "obsReviewed": true,
+      "locationPrivate": false,
+      "subId": "S321941387",
+      "locId": "L1781444",
+      "checklistLink": "https://ebird.org/checklist/S321941387",
+      "speciesLink": "https://ebird.org/species/fiscro"
     },
     {
       "speciesCode": "triher",
@@ -6429,6 +6514,23 @@
       "locId": "L62738130",
       "checklistLink": "https://ebird.org/checklist/S321321748",
       "speciesLink": "https://ebird.org/species/triher"
+    },
+    {
+      "speciesCode": "yetvir",
+      "comName": "Yellow-throated Vireo",
+      "sciName": "Vireo flavifrons",
+      "locName": "West Shore Trail Savannah NY",
+      "lat": 43.0528451,
+      "lng": -76.7373647,
+      "obsDt": "2026-04-13 17:10",
+      "howMany": 1,
+      "obsValid": false,
+      "obsReviewed": false,
+      "locationPrivate": true,
+      "subId": "S322731592",
+      "locId": "L31413697",
+      "checklistLink": "https://ebird.org/checklist/S322731592",
+      "speciesLink": "https://ebird.org/species/yetvir"
     },
     {
       "speciesCode": "woothr",
@@ -6567,23 +6669,6 @@
       "speciesLink": "https://ebird.org/species/triher"
     },
     {
-      "speciesCode": "yetvir",
-      "comName": "Yellow-throated Vireo",
-      "sciName": "Vireo flavifrons",
-      "locName": "Railroad Road Savannah",
-      "lat": 43.0560234,
-      "lng": -76.7181583,
-      "obsDt": "2026-04-13 16:00",
-      "howMany": 1,
-      "obsValid": false,
-      "obsReviewed": false,
-      "locationPrivate": true,
-      "subId": "S321410396",
-      "locId": "L60604232",
-      "checklistLink": "https://ebird.org/checklist/S321410396",
-      "speciesLink": "https://ebird.org/species/yetvir"
-    },
-    {
       "speciesCode": "norsho",
       "comName": "Northern Shoveler",
       "sciName": "Spatula clypeata",
@@ -6629,9 +6714,9 @@
       "obsValid": false,
       "obsReviewed": false,
       "locationPrivate": false,
-      "subId": "S321317298",
+      "subId": "S321317060",
       "locId": "L164468",
-      "checklistLink": "https://ebird.org/checklist/S321317298",
+      "checklistLink": "https://ebird.org/checklist/S321317060",
       "speciesLink": "https://ebird.org/species/rehwoo"
     },
     {
@@ -6754,23 +6839,6 @@
       "speciesLink": "https://ebird.org/species/grycat"
     },
     {
-      "speciesCode": "bawwar",
-      "comName": "Black-and-white Warbler",
-      "sciName": "Mniotilta varia",
-      "locName": "Central Park--North End (N of 97th St. Transverse)",
-      "lat": 40.796089,
-      "lng": -73.9558947,
-      "obsDt": "2026-04-13 13:45",
-      "howMany": 1,
-      "obsValid": true,
-      "obsReviewed": true,
-      "locationPrivate": false,
-      "subId": "S321299106",
-      "locId": "L794140",
-      "checklistLink": "https://ebird.org/checklist/S321299106",
-      "speciesLink": "https://ebird.org/species/bawwar"
-    },
-    {
       "speciesCode": "sancra",
       "comName": "Sandhill Crane",
       "sciName": "Antigone canadensis",
@@ -6786,6 +6854,23 @@
       "locId": "L62726813",
       "checklistLink": "https://ebird.org/checklist/S321264280",
       "speciesLink": "https://ebird.org/species/sancra"
+    },
+    {
+      "speciesCode": "bawwar",
+      "comName": "Black-and-white Warbler",
+      "sciName": "Mniotilta varia",
+      "locName": "Central Park--North End (N of 97th St. Transverse)",
+      "lat": 40.796089,
+      "lng": -73.9558947,
+      "obsDt": "2026-04-13 13:45",
+      "howMany": 1,
+      "obsValid": true,
+      "obsReviewed": true,
+      "locationPrivate": false,
+      "subId": "S321299106",
+      "locId": "L794140",
+      "checklistLink": "https://ebird.org/checklist/S321299106",
+      "speciesLink": "https://ebird.org/species/bawwar"
     },
     {
       "speciesCode": "triher",
@@ -6842,6 +6927,23 @@
       "speciesCode": "triher",
       "comName": "Tricolored Heron",
       "sciName": "Egretta tricolor",
+      "locName": "Little Ray Brook, Saranac Lake, New York, US (44.296, -74.084)",
+      "lat": 44.2961633,
+      "lng": -74.084026,
+      "obsDt": "2026-04-13 13:23",
+      "howMany": 1,
+      "obsValid": true,
+      "obsReviewed": true,
+      "locationPrivate": true,
+      "subId": "S321277084",
+      "locId": "L62729795",
+      "checklistLink": "https://ebird.org/checklist/S321277084",
+      "speciesLink": "https://ebird.org/species/triher"
+    },
+    {
+      "speciesCode": "triher",
+      "comName": "Tricolored Heron",
+      "sciName": "Egretta tricolor",
       "locName": "Ray Brook, Saranac Lake, New York, US (44.296, -74.084)",
       "lat": 44.2955457,
       "lng": -74.0843103,
@@ -6873,21 +6975,21 @@
       "speciesLink": "https://ebird.org/species/chiswi"
     },
     {
-      "speciesCode": "triher",
-      "comName": "Tricolored Heron",
-      "sciName": "Egretta tricolor",
-      "locName": "Little Ray Brook, Saranac Lake, New York, US (44.296, -74.084)",
-      "lat": 44.2961633,
-      "lng": -74.084026,
-      "obsDt": "2026-04-13 13:23",
+      "speciesCode": "gwcspa",
+      "comName": "White-crowned Sparrow (Gambel's)",
+      "sciName": "Zonotrichia leucophrys",
+      "locName": "Green-Wood Cemetery, Brooklyn",
+      "lat": 40.6523083,
+      "lng": -73.9904281,
+      "obsDt": "2026-04-13 13:20",
       "howMany": 1,
       "obsValid": true,
       "obsReviewed": true,
-      "locationPrivate": true,
-      "subId": "S321277084",
-      "locId": "L62729795",
-      "checklistLink": "https://ebird.org/checklist/S321277084",
-      "speciesLink": "https://ebird.org/species/triher"
+      "locationPrivate": false,
+      "subId": "S321287572",
+      "locId": "L285884",
+      "checklistLink": "https://ebird.org/checklist/S321287572",
+      "speciesLink": "https://ebird.org/species/gwcspa"
     },
     {
       "speciesCode": "triher",
@@ -6905,23 +7007,6 @@
       "locId": "L62725915",
       "checklistLink": "https://ebird.org/checklist/S321260438",
       "speciesLink": "https://ebird.org/species/triher"
-    },
-    {
-      "speciesCode": "gwcspa",
-      "comName": "White-crowned Sparrow (Gambel's)",
-      "sciName": "Zonotrichia leucophrys",
-      "locName": "Green-Wood Cemetery, Brooklyn",
-      "lat": 40.6523083,
-      "lng": -73.9904281,
-      "obsDt": "2026-04-13 13:20",
-      "howMany": 1,
-      "obsValid": true,
-      "obsReviewed": true,
-      "locationPrivate": false,
-      "subId": "S321287572",
-      "locId": "L285884",
-      "checklistLink": "https://ebird.org/checklist/S321287572",
-      "speciesLink": "https://ebird.org/species/gwcspa"
     },
     {
       "speciesCode": "seaspa",
@@ -7621,6 +7706,23 @@
       "speciesLink": "https://ebird.org/species/purfin"
     },
     {
+      "speciesCode": "blkvul",
+      "comName": "Black Vulture",
+      "sciName": "Coragyps atratus",
+      "locName": "Derby Hill Hawk Watch--North Lookout",
+      "lat": 43.527261,
+      "lng": -76.2393397,
+      "obsDt": "2026-04-13 06:33",
+      "howMany": 1,
+      "obsValid": false,
+      "obsReviewed": false,
+      "locationPrivate": false,
+      "subId": "S321345849",
+      "locId": "L166701",
+      "checklistLink": "https://ebird.org/checklist/S321345849",
+      "speciesLink": "https://ebird.org/species/blkvul"
+    },
+    {
       "speciesCode": "fiscro",
       "comName": "Fish Crow",
       "sciName": "Corvus ossifragus",
@@ -7636,23 +7738,6 @@
       "locId": "L166701",
       "checklistLink": "https://ebird.org/checklist/S321345849",
       "speciesLink": "https://ebird.org/species/fiscro"
-    },
-    {
-      "speciesCode": "blkvul",
-      "comName": "Black Vulture",
-      "sciName": "Coragyps atratus",
-      "locName": "Derby Hill Hawk Watch--North Lookout",
-      "lat": 43.527261,
-      "lng": -76.2393397,
-      "obsDt": "2026-04-13 06:33",
-      "howMany": 1,
-      "obsValid": false,
-      "obsReviewed": false,
-      "locationPrivate": false,
-      "subId": "S321388950",
-      "locId": "L166701",
-      "checklistLink": "https://ebird.org/checklist/S321388950",
-      "speciesLink": "https://ebird.org/species/blkvul"
     },
     {
       "speciesCode": "forter",
@@ -7768,9 +7853,9 @@
       "obsValid": false,
       "obsReviewed": false,
       "locationPrivate": false,
-      "subId": "S320863337",
+      "subId": "S320864053",
       "locId": "L1766802",
-      "checklistLink": "https://ebird.org/checklist/S320863337",
+      "checklistLink": "https://ebird.org/checklist/S320864053",
       "speciesLink": "https://ebird.org/species/eurwig"
     },
     {
@@ -7819,9 +7904,9 @@
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": false,
-      "subId": "S320881644",
+      "subId": "S320967463",
       "locId": "L2311277",
-      "checklistLink": "https://ebird.org/checklist/S320881644",
+      "checklistLink": "https://ebird.org/checklist/S320967463",
       "speciesLink": "https://ebird.org/species/yetwar"
     },
     {
@@ -7870,9 +7955,9 @@
       "obsValid": false,
       "obsReviewed": false,
       "locationPrivate": true,
-      "subId": "S320848842",
+      "subId": "S320956294",
       "locId": "L62647013",
-      "checklistLink": "https://ebird.org/checklist/S320848842",
+      "checklistLink": "https://ebird.org/checklist/S320956294",
       "speciesLink": "https://ebird.org/species/goleag"
     },
     {
@@ -7904,9 +7989,9 @@
       "obsValid": false,
       "obsReviewed": false,
       "locationPrivate": false,
-      "subId": "S322661105",
+      "subId": "S322661102",
       "locId": "L2311277",
-      "checklistLink": "https://ebird.org/checklist/S322661105",
+      "checklistLink": "https://ebird.org/checklist/S322661102",
       "speciesLink": "https://ebird.org/species/yetwar2"
     },
     {
@@ -8006,9 +8091,9 @@
       "obsValid": false,
       "obsReviewed": false,
       "locationPrivate": true,
-      "subId": "S320833083",
+      "subId": "S320833089",
       "locId": "L3532063",
-      "checklistLink": "https://ebird.org/checklist/S320833083",
+      "checklistLink": "https://ebird.org/checklist/S320833089",
       "speciesLink": "https://ebird.org/species/lbbgul"
     },
     {
@@ -8040,9 +8125,9 @@
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": false,
-      "subId": "S320852528",
+      "subId": "S320852526",
       "locId": "L164468",
-      "checklistLink": "https://ebird.org/checklist/S320852528",
+      "checklistLink": "https://ebird.org/checklist/S320852526",
       "speciesLink": "https://ebird.org/species/rehwoo"
     },
     {
@@ -8057,27 +8142,10 @@
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": false,
-      "subId": "S320849306",
+      "subId": "S320902506",
       "locId": "L11562889",
-      "checklistLink": "https://ebird.org/checklist/S320849306",
+      "checklistLink": "https://ebird.org/checklist/S320902506",
       "speciesLink": "https://ebird.org/species/y00478"
-    },
-    {
-      "speciesCode": "amebit",
-      "comName": "American Bittern",
-      "sciName": "Botaurus lentiginosus",
-      "locName": "The Res",
-      "lat": 42.517327,
-      "lng": -75.053126,
-      "obsDt": "2026-04-12 15:05",
-      "howMany": 1,
-      "obsValid": true,
-      "obsReviewed": true,
-      "locationPrivate": true,
-      "subId": "S320980230",
-      "locId": "L62673084",
-      "checklistLink": "https://ebird.org/checklist/S320980230",
-      "speciesLink": "https://ebird.org/species/amebit"
     },
     {
       "speciesCode": "redcro",
@@ -8095,6 +8163,23 @@
       "locId": "L62673084",
       "checklistLink": "https://ebird.org/checklist/S320980230",
       "speciesLink": "https://ebird.org/species/redcro"
+    },
+    {
+      "speciesCode": "amebit",
+      "comName": "American Bittern",
+      "sciName": "Botaurus lentiginosus",
+      "locName": "The Res",
+      "lat": 42.517327,
+      "lng": -75.053126,
+      "obsDt": "2026-04-12 15:05",
+      "howMany": 1,
+      "obsValid": true,
+      "obsReviewed": true,
+      "locationPrivate": true,
+      "subId": "S320980230",
+      "locId": "L62673084",
+      "checklistLink": "https://ebird.org/checklist/S320980230",
+      "speciesLink": "https://ebird.org/species/amebit"
     },
     {
       "speciesCode": "sancra",
@@ -8199,23 +8284,6 @@
       "speciesLink": "https://ebird.org/species/purfin"
     },
     {
-      "speciesCode": "sursco",
-      "comName": "Surf Scoter",
-      "sciName": "Melanitta perspicillata",
-      "locName": "Rhinecliff Landing Park",
-      "lat": 41.9200315,
-      "lng": -73.9530906,
-      "obsDt": "2026-04-12 14:03",
-      "howMany": 1,
-      "obsValid": true,
-      "obsReviewed": true,
-      "locationPrivate": false,
-      "subId": "S321246194",
-      "locId": "L8534417",
-      "checklistLink": "https://ebird.org/checklist/S321246194",
-      "speciesLink": "https://ebird.org/species/sursco"
-    },
-    {
       "speciesCode": "commer",
       "comName": "Common Merganser",
       "sciName": "Mergus merganser",
@@ -8233,6 +8301,23 @@
       "speciesLink": "https://ebird.org/species/commer"
     },
     {
+      "speciesCode": "sursco",
+      "comName": "Surf Scoter",
+      "sciName": "Melanitta perspicillata",
+      "locName": "Rhinecliff Landing Park",
+      "lat": 41.9200315,
+      "lng": -73.9530906,
+      "obsDt": "2026-04-12 14:03",
+      "howMany": 1,
+      "obsValid": true,
+      "obsReviewed": true,
+      "locationPrivate": false,
+      "subId": "S321246194",
+      "locId": "L8534417",
+      "checklistLink": "https://ebird.org/checklist/S321246194",
+      "speciesLink": "https://ebird.org/species/sursco"
+    },
+    {
       "speciesCode": "lbbgul",
       "comName": "Lesser Black-backed Gull",
       "sciName": "Larus fuscus",
@@ -8244,9 +8329,9 @@
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": false,
-      "subId": "S321416082",
+      "subId": "S321370581",
       "locId": "L811460",
-      "checklistLink": "https://ebird.org/checklist/S321416082",
+      "checklistLink": "https://ebird.org/checklist/S321370581",
       "speciesLink": "https://ebird.org/species/lbbgul"
     },
     {
@@ -8448,9 +8533,9 @@
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": false,
-      "subId": "S320755033",
+      "subId": "S320755035",
       "locId": "L18746402",
-      "checklistLink": "https://ebird.org/checklist/S320755033",
+      "checklistLink": "https://ebird.org/checklist/S320755035",
       "speciesLink": "https://ebird.org/species/sancra"
     },
     {
@@ -8471,23 +8556,6 @@
       "speciesLink": "https://ebird.org/species/bawwar"
     },
     {
-      "speciesCode": "y00478",
-      "comName": "Iceland Gull",
-      "sciName": "Larus glaucoides",
-      "locName": "Bush Terminal Piers Park",
-      "lat": 40.6541609,
-      "lng": -74.0204451,
-      "obsDt": "2026-04-12 11:43",
-      "howMany": 1,
-      "obsValid": true,
-      "obsReviewed": true,
-      "locationPrivate": false,
-      "subId": "S320779202",
-      "locId": "L3151880",
-      "checklistLink": "https://ebird.org/checklist/S320779202",
-      "speciesLink": "https://ebird.org/species/y00478"
-    },
-    {
       "speciesCode": "amepip",
       "comName": "American Pipit",
       "sciName": "Anthus rubescens",
@@ -8505,21 +8573,21 @@
       "speciesLink": "https://ebird.org/species/amepip"
     },
     {
-      "speciesCode": "bawwar",
-      "comName": "Black-and-white Warbler",
-      "sciName": "Mniotilta varia",
-      "locName": "Central Park--The Oven and The Point",
-      "lat": 40.7756262,
-      "lng": -73.9700541,
-      "obsDt": "2026-04-12 11:38",
+      "speciesCode": "y00478",
+      "comName": "Iceland Gull",
+      "sciName": "Larus glaucoides",
+      "locName": "Bush Terminal Piers Park",
+      "lat": 40.6541609,
+      "lng": -74.0204451,
+      "obsDt": "2026-04-12 11:43",
       "howMany": 1,
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": false,
-      "subId": "S320995531",
-      "locId": "L1480317",
-      "checklistLink": "https://ebird.org/checklist/S320995531",
-      "speciesLink": "https://ebird.org/species/bawwar"
+      "subId": "S320779202",
+      "locId": "L3151880",
+      "checklistLink": "https://ebird.org/checklist/S320779202",
+      "speciesLink": "https://ebird.org/species/y00478"
     },
     {
       "speciesCode": "goleag",
@@ -8537,6 +8605,23 @@
       "locId": "L62617660",
       "checklistLink": "https://ebird.org/checklist/S320716670",
       "speciesLink": "https://ebird.org/species/goleag"
+    },
+    {
+      "speciesCode": "bawwar",
+      "comName": "Black-and-white Warbler",
+      "sciName": "Mniotilta varia",
+      "locName": "Central Park--The Oven and The Point",
+      "lat": 40.7756262,
+      "lng": -73.9700541,
+      "obsDt": "2026-04-12 11:38",
+      "howMany": 1,
+      "obsValid": true,
+      "obsReviewed": true,
+      "locationPrivate": false,
+      "subId": "S320995531",
+      "locId": "L1480317",
+      "checklistLink": "https://ebird.org/checklist/S320995531",
+      "speciesLink": "https://ebird.org/species/bawwar"
     },
     {
       "speciesCode": "evegro",
@@ -8635,9 +8720,9 @@
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": true,
-      "subId": "S320677115",
+      "subId": "S320677107",
       "locId": "L23868561",
-      "checklistLink": "https://ebird.org/checklist/S320677115",
+      "checklistLink": "https://ebird.org/checklist/S320677107",
       "speciesLink": "https://ebird.org/species/redcro"
     },
     {
@@ -8924,9 +9009,9 @@
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": false,
-      "subId": "S320622258",
+      "subId": "S320618746",
       "locId": "L1781444",
-      "checklistLink": "https://ebird.org/checklist/S320622258",
+      "checklistLink": "https://ebird.org/checklist/S320618746",
       "speciesLink": "https://ebird.org/species/fiscro"
     },
     {
@@ -9043,9 +9128,9 @@
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": false,
-      "subId": "S320612961",
+      "subId": "S320612966",
       "locId": "L5087466",
-      "checklistLink": "https://ebird.org/checklist/S320612961",
+      "checklistLink": "https://ebird.org/checklist/S320612966",
       "speciesLink": "https://ebird.org/species/palwar"
     },
     {
@@ -9098,6 +9183,23 @@
       "locId": "L5073256",
       "checklistLink": "https://ebird.org/checklist/S320645440",
       "speciesLink": "https://ebird.org/species/evegro"
+    },
+    {
+      "speciesCode": "houwre",
+      "comName": "Northern House Wren",
+      "sciName": "Troglodytes aedon",
+      "locName": "Valerie Lane, Jamestown",
+      "lat": 42.082041,
+      "lng": -79.2666515,
+      "obsDt": "2026-04-12 08:30",
+      "howMany": 2,
+      "obsValid": false,
+      "obsReviewed": false,
+      "locationPrivate": true,
+      "subId": "S322718494",
+      "locId": "L1742369",
+      "checklistLink": "https://ebird.org/checklist/S322718494",
+      "speciesLink": "https://ebird.org/species/houwre"
     },
     {
       "speciesCode": "x00425",
@@ -9219,23 +9321,6 @@
       "speciesLink": "https://ebird.org/species/commer"
     },
     {
-      "speciesCode": "evegro",
-      "comName": "Evening Grosbeak",
-      "sciName": "Hesperiphona vespertina",
-      "locName": "Home",
-      "lat": 42.2921524,
-      "lng": -76.4354695,
-      "obsDt": "2026-04-12 08:00",
-      "howMany": 6,
-      "obsValid": false,
-      "obsReviewed": false,
-      "locationPrivate": true,
-      "subId": "S321122068",
-      "locId": "L9394435",
-      "checklistLink": "https://ebird.org/checklist/S321122068",
-      "speciesLink": "https://ebird.org/species/evegro"
-    },
-    {
       "speciesCode": "balori",
       "comName": "Baltimore Oriole",
       "sciName": "Icterus galbula",
@@ -9251,6 +9336,23 @@
       "locId": "L2082174",
       "checklistLink": "https://ebird.org/checklist/S320894884",
       "speciesLink": "https://ebird.org/species/balori"
+    },
+    {
+      "speciesCode": "evegro",
+      "comName": "Evening Grosbeak",
+      "sciName": "Hesperiphona vespertina",
+      "locName": "Home",
+      "lat": 42.2921524,
+      "lng": -76.4354695,
+      "obsDt": "2026-04-12 08:00",
+      "howMany": 6,
+      "obsValid": false,
+      "obsReviewed": false,
+      "locationPrivate": true,
+      "subId": "S321122068",
+      "locId": "L9394435",
+      "checklistLink": "https://ebird.org/checklist/S321122068",
+      "speciesLink": "https://ebird.org/species/evegro"
     },
     {
       "speciesCode": "norpar",
@@ -9270,23 +9372,6 @@
       "speciesLink": "https://ebird.org/species/norpar"
     },
     {
-      "speciesCode": "brnthr",
-      "comName": "Brown Thrasher",
-      "sciName": "Toxostoma rufum",
-      "locName": "Section 3 N of Rt 104",
-      "lat": 43.216774,
-      "lng": -78.919,
-      "obsDt": "2026-04-12 07:40",
-      "howMany": 1,
-      "obsValid": false,
-      "obsReviewed": false,
-      "locationPrivate": true,
-      "subId": "S321038828",
-      "locId": "L37275438",
-      "checklistLink": "https://ebird.org/checklist/S321038828",
-      "speciesLink": "https://ebird.org/species/brnthr"
-    },
-    {
       "speciesCode": "blkvul",
       "comName": "Black Vulture",
       "sciName": "Coragyps atratus",
@@ -9302,6 +9387,23 @@
       "locId": "L37275438",
       "checklistLink": "https://ebird.org/checklist/S321038828",
       "speciesLink": "https://ebird.org/species/blkvul"
+    },
+    {
+      "speciesCode": "brnthr",
+      "comName": "Brown Thrasher",
+      "sciName": "Toxostoma rufum",
+      "locName": "Section 3 N of Rt 104",
+      "lat": 43.216774,
+      "lng": -78.919,
+      "obsDt": "2026-04-12 07:40",
+      "howMany": 1,
+      "obsValid": false,
+      "obsReviewed": false,
+      "locationPrivate": true,
+      "subId": "S321038828",
+      "locId": "L37275438",
+      "checklistLink": "https://ebird.org/checklist/S321038828",
+      "speciesLink": "https://ebird.org/species/brnthr"
     },
     {
       "speciesCode": "snobun",
@@ -9406,23 +9508,6 @@
       "speciesLink": "https://ebird.org/species/redcro"
     },
     {
-      "speciesCode": "purfin",
-      "comName": "Purple Finch",
-      "sciName": "Haemorhous purpureus",
-      "locName": "Home (Not Actual Location)",
-      "lat": 41.3260756,
-      "lng": -73.7259007,
-      "obsDt": "2026-04-12 07:08",
-      "howMany": 1,
-      "obsValid": true,
-      "obsReviewed": true,
-      "locationPrivate": true,
-      "subId": "S320924981",
-      "locId": "L21759074",
-      "checklistLink": "https://ebird.org/checklist/S320924981",
-      "speciesLink": "https://ebird.org/species/purfin"
-    },
-    {
       "speciesCode": "woothr",
       "comName": "Wood Thrush",
       "sciName": "Hylocichla mustelina",
@@ -9438,6 +9523,23 @@
       "locId": "L390730",
       "checklistLink": "https://ebird.org/checklist/S320602579",
       "speciesLink": "https://ebird.org/species/woothr"
+    },
+    {
+      "speciesCode": "purfin",
+      "comName": "Purple Finch",
+      "sciName": "Haemorhous purpureus",
+      "locName": "Home (Not Actual Location)",
+      "lat": 41.3260756,
+      "lng": -73.7259007,
+      "obsDt": "2026-04-12 07:08",
+      "howMany": 1,
+      "obsValid": true,
+      "obsReviewed": true,
+      "locationPrivate": true,
+      "subId": "S320924981",
+      "locId": "L21759074",
+      "checklistLink": "https://ebird.org/checklist/S320924981",
+      "speciesLink": "https://ebird.org/species/purfin"
     },
     {
       "speciesCode": "rehwoo",
@@ -9468,9 +9570,9 @@
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": false,
-      "subId": "S320942755",
+      "subId": "S320942754",
       "locId": "L207765",
-      "checklistLink": "https://ebird.org/checklist/S320942755",
+      "checklistLink": "https://ebird.org/checklist/S320942754",
       "speciesLink": "https://ebird.org/species/cliswa"
     },
     {
@@ -9587,9 +9689,9 @@
       "obsValid": false,
       "obsReviewed": false,
       "locationPrivate": false,
-      "subId": "S320360251",
+      "subId": "S320956034",
       "locId": "L6505182",
-      "checklistLink": "https://ebird.org/checklist/S320360251",
+      "checklistLink": "https://ebird.org/checklist/S320956034",
       "speciesLink": "https://ebird.org/species/brnthr"
     },
     {
@@ -9655,9 +9757,9 @@
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": false,
-      "subId": "S320711371",
+      "subId": "S320711369",
       "locId": "L1811535",
-      "checklistLink": "https://ebird.org/checklist/S320711371",
+      "checklistLink": "https://ebird.org/checklist/S320711369",
       "speciesLink": "https://ebird.org/species/rehwoo"
     },
     {
@@ -9916,23 +10018,6 @@
       "speciesLink": "https://ebird.org/species/vesspa"
     },
     {
-      "speciesCode": "snoegr",
-      "comName": "Snowy Egret",
-      "sciName": "Egretta thula",
-      "locName": "Beaver Island SP",
-      "lat": 42.9643762,
-      "lng": -78.9500361,
-      "obsDt": "2026-04-11 14:24",
-      "howMany": 1,
-      "obsValid": true,
-      "obsReviewed": true,
-      "locationPrivate": false,
-      "subId": "S320294169",
-      "locId": "L462930",
-      "checklistLink": "https://ebird.org/checklist/S320294169",
-      "speciesLink": "https://ebird.org/species/snoegr"
-    },
-    {
       "speciesCode": "fiscro",
       "comName": "Fish Crow",
       "sciName": "Corvus ossifragus",
@@ -9948,6 +10033,23 @@
       "locId": "L462930",
       "checklistLink": "https://ebird.org/checklist/S320294169",
       "speciesLink": "https://ebird.org/species/fiscro"
+    },
+    {
+      "speciesCode": "snoegr",
+      "comName": "Snowy Egret",
+      "sciName": "Egretta thula",
+      "locName": "Beaver Island SP",
+      "lat": 42.9643762,
+      "lng": -78.9500361,
+      "obsDt": "2026-04-11 14:24",
+      "howMany": 1,
+      "obsValid": true,
+      "obsReviewed": true,
+      "locationPrivate": false,
+      "subId": "S320294169",
+      "locId": "L462930",
+      "checklistLink": "https://ebird.org/checklist/S320294169",
+      "speciesLink": "https://ebird.org/species/snoegr"
     },
     {
       "speciesCode": "balori",
@@ -10114,9 +10216,9 @@
       "obsValid": false,
       "obsReviewed": false,
       "locationPrivate": false,
-      "subId": "S320387951",
+      "subId": "S320179207",
       "locId": "L1248204",
-      "checklistLink": "https://ebird.org/checklist/S320387951",
+      "checklistLink": "https://ebird.org/checklist/S320179207",
       "speciesLink": "https://ebird.org/species/pinwar"
     },
     {
@@ -10165,9 +10267,9 @@
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": false,
-      "subId": "S320211944",
+      "subId": "S320200522",
       "locId": "L6275102",
-      "checklistLink": "https://ebird.org/checklist/S320211944",
+      "checklistLink": "https://ebird.org/checklist/S320200522",
       "speciesLink": "https://ebird.org/species/snogoo"
     },
     {
@@ -10284,9 +10386,9 @@
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": false,
-      "subId": "S320110741",
+      "subId": "S320110735",
       "locId": "L109055",
-      "checklistLink": "https://ebird.org/checklist/S320110741",
+      "checklistLink": "https://ebird.org/checklist/S320110735",
       "speciesLink": "https://ebird.org/species/bargoo"
     },
     {
@@ -10318,9 +10420,9 @@
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": false,
-      "subId": "S320154086",
+      "subId": "S320154082",
       "locId": "L383848",
-      "checklistLink": "https://ebird.org/checklist/S320154086",
+      "checklistLink": "https://ebird.org/checklist/S320154082",
       "speciesLink": "https://ebird.org/species/redcro"
     },
     {
@@ -10454,9 +10556,9 @@
       "obsValid": false,
       "obsReviewed": false,
       "locationPrivate": false,
-      "subId": "S320389154",
+      "subId": "S320700641",
       "locId": "L109145",
-      "checklistLink": "https://ebird.org/checklist/S320389154",
+      "checklistLink": "https://ebird.org/checklist/S320700641",
       "speciesLink": "https://ebird.org/species/comyel"
     },
     {
@@ -10471,9 +10573,9 @@
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": false,
-      "subId": "S320153878",
+      "subId": "S320153881",
       "locId": "L276050",
-      "checklistLink": "https://ebird.org/checklist/S320153878",
+      "checklistLink": "https://ebird.org/checklist/S320153881",
       "speciesLink": "https://ebird.org/species/evegro3"
     },
     {
@@ -10511,23 +10613,6 @@
       "speciesLink": "https://ebird.org/species/virrai"
     },
     {
-      "speciesCode": "blkvul",
-      "comName": "Black Vulture",
-      "sciName": "Coragyps atratus",
-      "locName": "Central Park--The Ramble",
-      "lat": 40.7779667,
-      "lng": -73.9697165,
-      "obsDt": "2026-04-11 09:54",
-      "howMany": 1,
-      "obsValid": true,
-      "obsReviewed": true,
-      "locationPrivate": false,
-      "subId": "S320295507",
-      "locId": "L109518",
-      "checklistLink": "https://ebird.org/checklist/S320295507",
-      "speciesLink": "https://ebird.org/species/blkvul"
-    },
-    {
       "speciesCode": "vesspa",
       "comName": "Vesper Sparrow",
       "sciName": "Pooecetes gramineus",
@@ -10543,6 +10628,23 @@
       "locId": "L109518",
       "checklistLink": "https://ebird.org/checklist/S320333297",
       "speciesLink": "https://ebird.org/species/vesspa"
+    },
+    {
+      "speciesCode": "blkvul",
+      "comName": "Black Vulture",
+      "sciName": "Coragyps atratus",
+      "locName": "Central Park--The Ramble",
+      "lat": 40.7779667,
+      "lng": -73.9697165,
+      "obsDt": "2026-04-11 09:54",
+      "howMany": 1,
+      "obsValid": true,
+      "obsReviewed": true,
+      "locationPrivate": false,
+      "subId": "S320333297",
+      "locId": "L109518",
+      "checklistLink": "https://ebird.org/checklist/S320333297",
+      "speciesLink": "https://ebird.org/species/blkvul"
     },
     {
       "speciesCode": "cacgoo1",
@@ -10692,9 +10794,9 @@
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": false,
-      "subId": "S320242536",
+      "subId": "S320207304",
       "locId": "L285884",
-      "checklistLink": "https://ebird.org/checklist/S320242536",
+      "checklistLink": "https://ebird.org/checklist/S320207304",
       "speciesLink": "https://ebird.org/species/gwcspa"
     },
     {
@@ -10709,9 +10811,9 @@
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": false,
-      "subId": "S320044120",
+      "subId": "S320044127",
       "locId": "L35891795",
-      "checklistLink": "https://ebird.org/checklist/S320044120",
+      "checklistLink": "https://ebird.org/checklist/S320044127",
       "speciesLink": "https://ebird.org/species/evegro"
     },
     {
@@ -10800,23 +10902,6 @@
       "speciesLink": "https://ebird.org/species/evegro"
     },
     {
-      "speciesCode": "sursco",
-      "comName": "Surf Scoter",
-      "sciName": "Melanitta perspicillata",
-      "locName": "Calvert Vaux Park (Dreier-Offerman Park)",
-      "lat": 40.5848762,
-      "lng": -73.9945752,
-      "obsDt": "2026-04-11 08:36",
-      "howMany": 4,
-      "obsValid": true,
-      "obsReviewed": true,
-      "locationPrivate": false,
-      "subId": "S320062168",
-      "locId": "L351189",
-      "checklistLink": "https://ebird.org/checklist/S320062168",
-      "speciesLink": "https://ebird.org/species/sursco"
-    },
-    {
       "speciesCode": "blksco2",
       "comName": "Black Scoter",
       "sciName": "Melanitta americana",
@@ -10832,6 +10917,23 @@
       "locId": "L351189",
       "checklistLink": "https://ebird.org/checklist/S320062168",
       "speciesLink": "https://ebird.org/species/blksco2"
+    },
+    {
+      "speciesCode": "sursco",
+      "comName": "Surf Scoter",
+      "sciName": "Melanitta perspicillata",
+      "locName": "Calvert Vaux Park (Dreier-Offerman Park)",
+      "lat": 40.5848762,
+      "lng": -73.9945752,
+      "obsDt": "2026-04-11 08:36",
+      "howMany": 4,
+      "obsValid": true,
+      "obsReviewed": true,
+      "locationPrivate": false,
+      "subId": "S320062168",
+      "locId": "L351189",
+      "checklistLink": "https://ebird.org/checklist/S320062168",
+      "speciesLink": "https://ebird.org/species/sursco"
     },
     {
       "speciesCode": "commer",
@@ -10879,9 +10981,9 @@
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": false,
-      "subId": "S320060951",
+      "subId": "S320060947",
       "locId": "L11352728",
-      "checklistLink": "https://ebird.org/checklist/S320060951",
+      "checklistLink": "https://ebird.org/checklist/S320060947",
       "speciesLink": "https://ebird.org/species/brnthr"
     },
     {
@@ -11038,23 +11140,6 @@
       "speciesLink": "https://ebird.org/species/retloo"
     },
     {
-      "speciesCode": "houwre",
-      "comName": "Northern House Wren",
-      "sciName": "Troglodytes aedon",
-      "locName": "Michigan Hollow, silo house",
-      "lat": 42.2745972,
-      "lng": -76.4925318,
-      "obsDt": "2026-04-11 07:22",
-      "howMany": 1,
-      "obsValid": true,
-      "obsReviewed": true,
-      "locationPrivate": true,
-      "subId": "S320000283",
-      "locId": "L41961519",
-      "checklistLink": "https://ebird.org/checklist/S320000283",
-      "speciesLink": "https://ebird.org/species/houwre"
-    },
-    {
       "speciesCode": "evegro",
       "comName": "Evening Grosbeak",
       "sciName": "Hesperiphona vespertina",
@@ -11070,6 +11155,23 @@
       "locId": "L31580582",
       "checklistLink": "https://ebird.org/checklist/S319964720",
       "speciesLink": "https://ebird.org/species/evegro"
+    },
+    {
+      "speciesCode": "houwre",
+      "comName": "Northern House Wren",
+      "sciName": "Troglodytes aedon",
+      "locName": "Michigan Hollow, silo house",
+      "lat": 42.2745972,
+      "lng": -76.4925318,
+      "obsDt": "2026-04-11 07:22",
+      "howMany": 1,
+      "obsValid": true,
+      "obsReviewed": true,
+      "locationPrivate": true,
+      "subId": "S320000283",
+      "locId": "L41961519",
+      "checklistLink": "https://ebird.org/checklist/S320000283",
+      "speciesLink": "https://ebird.org/species/houwre"
     },
     {
       "speciesCode": "tunswa",
@@ -11117,9 +11219,9 @@
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": true,
-      "subId": "S321407710",
+      "subId": "S321410097",
       "locId": "L62540949",
-      "checklistLink": "https://ebird.org/checklist/S321407710",
+      "checklistLink": "https://ebird.org/checklist/S321410097",
       "speciesLink": "https://ebird.org/species/sursco"
     },
     {
@@ -11168,9 +11270,9 @@
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": false,
-      "subId": "S319972794",
+      "subId": "S320043060",
       "locId": "L786456",
-      "checklistLink": "https://ebird.org/checklist/S319972794",
+      "checklistLink": "https://ebird.org/checklist/S320043060",
       "speciesLink": "https://ebird.org/species/purfin"
     },
     {
@@ -11338,9 +11440,9 @@
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": false,
-      "subId": "S320264101",
+      "subId": "S320236671",
       "locId": "L1293732",
-      "checklistLink": "https://ebird.org/checklist/S320264101",
+      "checklistLink": "https://ebird.org/checklist/S320236671",
       "speciesLink": "https://ebird.org/species/vesspa"
     },
     {
@@ -11576,9 +11678,9 @@
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": false,
-      "subId": "S319736009",
+      "subId": "S319731693",
       "locId": "L274662",
-      "checklistLink": "https://ebird.org/checklist/S319736009",
+      "checklistLink": "https://ebird.org/checklist/S319731693",
       "speciesLink": "https://ebird.org/species/blkvul"
     },
     {
@@ -11735,6 +11837,23 @@
       "speciesLink": "https://ebird.org/species/snogoo"
     },
     {
+      "speciesCode": "redcro",
+      "comName": "Red Crossbill",
+      "sciName": "Loxia curvirostra",
+      "locName": "Whiskey Hollow Nature Preserve",
+      "lat": 43.1163083,
+      "lng": -76.3915905,
+      "obsDt": "2026-04-10 11:44",
+      "howMany": 1,
+      "obsValid": false,
+      "obsReviewed": false,
+      "locationPrivate": false,
+      "subId": "S319813591",
+      "locId": "L270543",
+      "checklistLink": "https://ebird.org/checklist/S319813591",
+      "speciesLink": "https://ebird.org/species/redcro"
+    },
+    {
       "speciesCode": "lesyel",
       "comName": "Lesser Yellowlegs",
       "sciName": "Tringa flavipes",
@@ -11769,23 +11888,6 @@
       "speciesLink": "https://ebird.org/species/solsan"
     },
     {
-      "speciesCode": "redcro",
-      "comName": "Red Crossbill",
-      "sciName": "Loxia curvirostra",
-      "locName": "Whiskey Hollow Nature Preserve",
-      "lat": 43.1163083,
-      "lng": -76.3915905,
-      "obsDt": "2026-04-10 11:44",
-      "howMany": 1,
-      "obsValid": false,
-      "obsReviewed": false,
-      "locationPrivate": false,
-      "subId": "S319813591",
-      "locId": "L270543",
-      "checklistLink": "https://ebird.org/checklist/S319813591",
-      "speciesLink": "https://ebird.org/species/redcro"
-    },
-    {
       "speciesCode": "yerwar",
       "comName": "Yellow-rumped Warbler",
       "sciName": "Setophaga coronata",
@@ -11814,9 +11916,9 @@
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": false,
-      "subId": "S319692602",
+      "subId": "S320625317",
       "locId": "L276050",
-      "checklistLink": "https://ebird.org/checklist/S319692602",
+      "checklistLink": "https://ebird.org/checklist/S320625317",
       "speciesLink": "https://ebird.org/species/redcro"
     },
     {
@@ -11956,23 +12058,6 @@
       "speciesLink": "https://ebird.org/species/rehwoo"
     },
     {
-      "speciesCode": "purfin",
-      "comName": "Purple Finch",
-      "sciName": "Haemorhous purpureus",
-      "locName": "Central Park",
-      "lat": 40.7715482,
-      "lng": -73.9724819,
-      "obsDt": "2026-04-10 09:50",
-      "howMany": 1,
-      "obsValid": false,
-      "obsReviewed": false,
-      "locationPrivate": false,
-      "subId": "S319844196",
-      "locId": "L191106",
-      "checklistLink": "https://ebird.org/checklist/S319844196",
-      "speciesLink": "https://ebird.org/species/purfin"
-    },
-    {
       "speciesCode": "buhvir",
       "comName": "Blue-headed Vireo",
       "sciName": "Vireo solitarius",
@@ -11988,6 +12073,23 @@
       "locId": "L10023138",
       "checklistLink": "https://ebird.org/checklist/S319614631",
       "speciesLink": "https://ebird.org/species/buhvir"
+    },
+    {
+      "speciesCode": "purfin",
+      "comName": "Purple Finch",
+      "sciName": "Haemorhous purpureus",
+      "locName": "Central Park",
+      "lat": 40.7715482,
+      "lng": -73.9724819,
+      "obsDt": "2026-04-10 09:50",
+      "howMany": 1,
+      "obsValid": false,
+      "obsReviewed": false,
+      "locationPrivate": false,
+      "subId": "S319844196",
+      "locId": "L191106",
+      "checklistLink": "https://ebird.org/checklist/S319844196",
+      "speciesLink": "https://ebird.org/species/purfin"
     },
     {
       "speciesCode": "kumgul1",
@@ -12120,9 +12222,9 @@
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": false,
-      "subId": "S319621955",
+      "subId": "S319674032",
       "locId": "L200833",
-      "checklistLink": "https://ebird.org/checklist/S319621955",
+      "checklistLink": "https://ebird.org/checklist/S319674032",
       "speciesLink": "https://ebird.org/species/brnthr"
     },
     {
@@ -12160,6 +12262,23 @@
       "speciesLink": "https://ebird.org/species/pilwoo"
     },
     {
+      "speciesCode": "fiscro",
+      "comName": "Fish Crow",
+      "sciName": "Corvus ossifragus",
+      "locName": "Oswego- Miller Patch",
+      "lat": 43.442192,
+      "lng": -76.506446,
+      "obsDt": "2026-04-10 08:00",
+      "howMany": 1,
+      "obsValid": true,
+      "obsReviewed": true,
+      "locationPrivate": true,
+      "subId": "S319562022",
+      "locId": "L26894825",
+      "checklistLink": "https://ebird.org/checklist/S319562022",
+      "speciesLink": "https://ebird.org/species/fiscro"
+    },
+    {
       "speciesCode": "houwre",
       "comName": "Northern House Wren",
       "sciName": "Troglodytes aedon",
@@ -12192,23 +12311,6 @@
       "locId": "L210266",
       "checklistLink": "https://ebird.org/checklist/S319695410",
       "speciesLink": "https://ebird.org/species/brnthr"
-    },
-    {
-      "speciesCode": "fiscro",
-      "comName": "Fish Crow",
-      "sciName": "Corvus ossifragus",
-      "locName": "Oswego- Miller Patch",
-      "lat": 43.442192,
-      "lng": -76.506446,
-      "obsDt": "2026-04-10 08:00",
-      "howMany": 1,
-      "obsValid": true,
-      "obsReviewed": true,
-      "locationPrivate": true,
-      "subId": "S319562022",
-      "locId": "L26894825",
-      "checklistLink": "https://ebird.org/checklist/S319562022",
-      "speciesLink": "https://ebird.org/species/fiscro"
     },
     {
       "speciesCode": "houwre1",
@@ -12375,9 +12477,9 @@
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": false,
-      "subId": "S319552805",
+      "subId": "S319552803",
       "locId": "L1588211",
-      "checklistLink": "https://ebird.org/checklist/S319552805",
+      "checklistLink": "https://ebird.org/checklist/S319552803",
       "speciesLink": "https://ebird.org/species/virrai"
     },
     {
@@ -12466,23 +12568,6 @@
       "speciesLink": "https://ebird.org/species/solsan"
     },
     {
-      "speciesCode": "redcro",
-      "comName": "Red Crossbill",
-      "sciName": "Loxia curvirostra",
-      "locName": "Tubbs Hill Rd, Richford",
-      "lat": 42.3483635,
-      "lng": -76.1646831,
-      "obsDt": "2026-04-10 07:10",
-      "howMany": 7,
-      "obsValid": true,
-      "obsReviewed": true,
-      "locationPrivate": true,
-      "subId": "S319635139",
-      "locId": "L621720",
-      "checklistLink": "https://ebird.org/checklist/S319635139",
-      "speciesLink": "https://ebird.org/species/redcro"
-    },
-    {
       "speciesCode": "evegro",
       "comName": "Evening Grosbeak",
       "sciName": "Hesperiphona vespertina",
@@ -12498,6 +12583,23 @@
       "locId": "L621720",
       "checklistLink": "https://ebird.org/checklist/S319635139",
       "speciesLink": "https://ebird.org/species/evegro"
+    },
+    {
+      "speciesCode": "redcro",
+      "comName": "Red Crossbill",
+      "sciName": "Loxia curvirostra",
+      "locName": "Tubbs Hill Rd, Richford",
+      "lat": 42.3483635,
+      "lng": -76.1646831,
+      "obsDt": "2026-04-10 07:10",
+      "howMany": 7,
+      "obsValid": true,
+      "obsReviewed": true,
+      "locationPrivate": true,
+      "subId": "S319635139",
+      "locId": "L621720",
+      "checklistLink": "https://ebird.org/checklist/S319635139",
+      "speciesLink": "https://ebird.org/species/redcro"
     },
     {
       "speciesCode": "wiltur",
@@ -12653,23 +12755,6 @@
       "speciesLink": "https://ebird.org/species/blkvul"
     },
     {
-      "speciesCode": "houwre",
-      "comName": "Northern House Wren",
-      "sciName": "Troglodytes aedon",
-      "locName": "New Lebanon, New York, US (42.486, -73.468)",
-      "lat": 42.4863434,
-      "lng": -73.4682175,
-      "obsDt": "2026-04-09 17:47",
-      "howMany": 1,
-      "obsValid": false,
-      "obsReviewed": false,
-      "locationPrivate": true,
-      "subId": "S319354538",
-      "locId": "L55432947",
-      "checklistLink": "https://ebird.org/checklist/S319354538",
-      "speciesLink": "https://ebird.org/species/houwre"
-    },
-    {
       "speciesCode": "chiswi",
       "comName": "Chimney Swift",
       "sciName": "Chaetura pelagica",
@@ -12687,21 +12772,21 @@
       "speciesLink": "https://ebird.org/species/chiswi"
     },
     {
-      "speciesCode": "sursco",
-      "comName": "Surf Scoter",
-      "sciName": "Melanitta perspicillata",
-      "locName": "Calvert Vaux Park (Dreier-Offerman Park)",
-      "lat": 40.5848762,
-      "lng": -73.9945752,
-      "obsDt": "2026-04-09 17:31",
-      "howMany": 6,
-      "obsValid": true,
-      "obsReviewed": true,
-      "locationPrivate": false,
-      "subId": "S319418272",
-      "locId": "L351189",
-      "checklistLink": "https://ebird.org/checklist/S319418272",
-      "speciesLink": "https://ebird.org/species/sursco"
+      "speciesCode": "houwre",
+      "comName": "Northern House Wren",
+      "sciName": "Troglodytes aedon",
+      "locName": "New Lebanon, New York, US (42.486, -73.468)",
+      "lat": 42.4863434,
+      "lng": -73.4682175,
+      "obsDt": "2026-04-09 17:47",
+      "howMany": 1,
+      "obsValid": false,
+      "obsReviewed": false,
+      "locationPrivate": true,
+      "subId": "S319354538",
+      "locId": "L55432947",
+      "checklistLink": "https://ebird.org/checklist/S319354538",
+      "speciesLink": "https://ebird.org/species/houwre"
     },
     {
       "speciesCode": "blksco2",
@@ -12721,21 +12806,21 @@
       "speciesLink": "https://ebird.org/species/blksco2"
     },
     {
-      "speciesCode": "rengre",
-      "comName": "Red-necked Grebe",
-      "sciName": "Podiceps grisegena",
-      "locName": "City Island, Belden Point",
-      "lat": 40.8376243,
-      "lng": -73.7829097,
-      "obsDt": "2026-04-09 17:05",
-      "howMany": 1,
-      "obsValid": false,
-      "obsReviewed": false,
+      "speciesCode": "sursco",
+      "comName": "Surf Scoter",
+      "sciName": "Melanitta perspicillata",
+      "locName": "Calvert Vaux Park (Dreier-Offerman Park)",
+      "lat": 40.5848762,
+      "lng": -73.9945752,
+      "obsDt": "2026-04-09 17:31",
+      "howMany": 6,
+      "obsValid": true,
+      "obsReviewed": true,
       "locationPrivate": false,
-      "subId": "S321032196",
-      "locId": "L5209295",
-      "checklistLink": "https://ebird.org/checklist/S321032196",
-      "speciesLink": "https://ebird.org/species/rengre"
+      "subId": "S319418272",
+      "locId": "L351189",
+      "checklistLink": "https://ebird.org/checklist/S319418272",
+      "speciesLink": "https://ebird.org/species/sursco"
     },
     {
       "speciesCode": "norgan",
@@ -12755,6 +12840,23 @@
       "speciesLink": "https://ebird.org/species/norgan"
     },
     {
+      "speciesCode": "rengre",
+      "comName": "Red-necked Grebe",
+      "sciName": "Podiceps grisegena",
+      "locName": "City Island, Belden Point",
+      "lat": 40.8376243,
+      "lng": -73.7829097,
+      "obsDt": "2026-04-09 17:05",
+      "howMany": 1,
+      "obsValid": false,
+      "obsReviewed": false,
+      "locationPrivate": false,
+      "subId": "S321032196",
+      "locId": "L5209295",
+      "checklistLink": "https://ebird.org/checklist/S321032196",
+      "speciesLink": "https://ebird.org/species/rengre"
+    },
+    {
       "speciesCode": "banswa",
       "comName": "Bank Swallow",
       "sciName": "Riparia riparia",
@@ -12766,9 +12868,9 @@
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": true,
-      "subId": "S319328872",
+      "subId": "S319328874",
       "locId": "L6038069",
-      "checklistLink": "https://ebird.org/checklist/S319328872",
+      "checklistLink": "https://ebird.org/checklist/S319328874",
       "speciesLink": "https://ebird.org/species/banswa"
     },
     {
@@ -12942,23 +13044,6 @@
       "speciesLink": "https://ebird.org/species/grecor"
     },
     {
-      "speciesCode": "eargre",
-      "comName": "Eared Grebe",
-      "sciName": "Podiceps nigricollis",
-      "locName": "Lake Erie SP",
-      "lat": 42.4220913,
-      "lng": -79.4281205,
-      "obsDt": "2026-04-09 14:25",
-      "howMany": 1,
-      "obsValid": true,
-      "obsReviewed": true,
-      "locationPrivate": false,
-      "subId": "S319603703",
-      "locId": "L1765371",
-      "checklistLink": "https://ebird.org/checklist/S319603703",
-      "speciesLink": "https://ebird.org/species/eargre"
-    },
-    {
       "speciesCode": "bcnher",
       "comName": "Black-crowned Night Heron",
       "sciName": "Nycticorax nycticorax",
@@ -12976,6 +13061,23 @@
       "speciesLink": "https://ebird.org/species/bcnher"
     },
     {
+      "speciesCode": "eargre",
+      "comName": "Eared Grebe",
+      "sciName": "Podiceps nigricollis",
+      "locName": "Lake Erie SP",
+      "lat": 42.4220913,
+      "lng": -79.4281205,
+      "obsDt": "2026-04-09 14:25",
+      "howMany": 1,
+      "obsValid": true,
+      "obsReviewed": true,
+      "locationPrivate": false,
+      "subId": "S319603703",
+      "locId": "L1765371",
+      "checklistLink": "https://ebird.org/checklist/S319603703",
+      "speciesLink": "https://ebird.org/species/eargre"
+    },
+    {
       "speciesCode": "commer",
       "comName": "Common Merganser",
       "sciName": "Mergus merganser",
@@ -12991,6 +13093,23 @@
       "locId": "L16420731",
       "checklistLink": "https://ebird.org/checklist/S319311382",
       "speciesLink": "https://ebird.org/species/commer"
+    },
+    {
+      "speciesCode": "bkcnih2",
+      "comName": "Black-crowned Night Heron (American)",
+      "sciName": "Nycticorax nycticorax",
+      "locName": "Roberson Museum and Science Center",
+      "lat": 42.0940746,
+      "lng": -75.9186538,
+      "obsDt": "2026-04-09 14:12",
+      "howMany": 1,
+      "obsValid": false,
+      "obsReviewed": false,
+      "locationPrivate": false,
+      "subId": "S319282765",
+      "locId": "L5450710",
+      "checklistLink": "https://ebird.org/checklist/S319282765",
+      "speciesLink": "https://ebird.org/species/bkcnih2"
     },
     {
       "speciesCode": "bcnher",
@@ -13214,23 +13333,6 @@
       "speciesLink": "https://ebird.org/species/neocor"
     },
     {
-      "speciesCode": "evegro",
-      "comName": "Evening Grosbeak",
-      "sciName": "Hesperiphona vespertina",
-      "locName": "Backyard sunflower feeder",
-      "lat": 43.049497,
-      "lng": -74.058933,
-      "obsDt": "2026-04-09 11:09",
-      "howMany": 1,
-      "obsValid": true,
-      "obsReviewed": true,
-      "locationPrivate": true,
-      "subId": "S319383339",
-      "locId": "L8180547",
-      "checklistLink": "https://ebird.org/checklist/S319383339",
-      "speciesLink": "https://ebird.org/species/evegro"
-    },
-    {
       "speciesCode": "houwre",
       "comName": "Northern House Wren",
       "sciName": "Troglodytes aedon",
@@ -13246,6 +13348,23 @@
       "locId": "L8180547",
       "checklistLink": "https://ebird.org/checklist/S319383339",
       "speciesLink": "https://ebird.org/species/houwre"
+    },
+    {
+      "speciesCode": "evegro",
+      "comName": "Evening Grosbeak",
+      "sciName": "Hesperiphona vespertina",
+      "locName": "Backyard sunflower feeder",
+      "lat": 43.049497,
+      "lng": -74.058933,
+      "obsDt": "2026-04-09 11:09",
+      "howMany": 1,
+      "obsValid": true,
+      "obsReviewed": true,
+      "locationPrivate": true,
+      "subId": "S319383339",
+      "locId": "L8180547",
+      "checklistLink": "https://ebird.org/checklist/S319383339",
+      "speciesLink": "https://ebird.org/species/evegro"
     },
     {
       "speciesCode": "purfin",
@@ -13418,23 +13537,6 @@
       "speciesLink": "https://ebird.org/species/litgul"
     },
     {
-      "speciesCode": "laugul",
-      "comName": "Laughing Gull",
-      "sciName": "Leucophaeus atricilla",
-      "locName": "Cameron-Sharkey Park, New Rochelle US-NY 40.89185, -73.78139",
-      "lat": 40.89185,
-      "lng": -73.781386,
-      "obsDt": "2026-04-09 09:45",
-      "howMany": 1,
-      "obsValid": true,
-      "obsReviewed": true,
-      "locationPrivate": true,
-      "subId": "S319160955",
-      "locId": "L62297470",
-      "checklistLink": "https://ebird.org/checklist/S319160955",
-      "speciesLink": "https://ebird.org/species/laugul"
-    },
-    {
       "speciesCode": "snoegr",
       "comName": "Snowy Egret",
       "sciName": "Egretta thula",
@@ -13450,6 +13552,23 @@
       "locId": "L1781444",
       "checklistLink": "https://ebird.org/checklist/S319373694",
       "speciesLink": "https://ebird.org/species/snoegr"
+    },
+    {
+      "speciesCode": "laugul",
+      "comName": "Laughing Gull",
+      "sciName": "Leucophaeus atricilla",
+      "locName": "Cameron-Sharkey Park, New Rochelle US-NY 40.89185, -73.78139",
+      "lat": 40.89185,
+      "lng": -73.781386,
+      "obsDt": "2026-04-09 09:45",
+      "howMany": 1,
+      "obsValid": true,
+      "obsReviewed": true,
+      "locationPrivate": true,
+      "subId": "S319160955",
+      "locId": "L62297470",
+      "checklistLink": "https://ebird.org/checklist/S319160955",
+      "speciesLink": "https://ebird.org/species/laugul"
     },
     {
       "speciesCode": "evegro",
@@ -13571,23 +13690,6 @@
       "speciesLink": "https://ebird.org/species/yetvir"
     },
     {
-      "speciesCode": "yelwar1",
-      "comName": "Northern Yellow Warbler",
-      "sciName": "Setophaga aestiva",
-      "locName": "Wickham Lake, Warwick",
-      "lat": 41.2823175,
-      "lng": -74.2951152,
-      "obsDt": "2026-04-09 08:55",
-      "howMany": 1,
-      "obsValid": false,
-      "obsReviewed": false,
-      "locationPrivate": false,
-      "subId": "S319285822",
-      "locId": "L5123354",
-      "checklistLink": "https://ebird.org/checklist/S319285822",
-      "speciesLink": "https://ebird.org/species/yelwar1"
-    },
-    {
       "speciesCode": "purfin",
       "comName": "Purple Finch",
       "sciName": "Haemorhous purpureus",
@@ -13603,6 +13705,23 @@
       "locId": "L1507219",
       "checklistLink": "https://ebird.org/checklist/S319180297",
       "speciesLink": "https://ebird.org/species/purfin"
+    },
+    {
+      "speciesCode": "yelwar1",
+      "comName": "Northern Yellow Warbler",
+      "sciName": "Setophaga aestiva",
+      "locName": "Wickham Lake, Warwick",
+      "lat": 41.2823175,
+      "lng": -74.2951152,
+      "obsDt": "2026-04-09 08:55",
+      "howMany": 1,
+      "obsValid": false,
+      "obsReviewed": false,
+      "locationPrivate": false,
+      "subId": "S319285822",
+      "locId": "L5123354",
+      "checklistLink": "https://ebird.org/checklist/S319285822",
+      "speciesLink": "https://ebird.org/species/yelwar1"
     },
     {
       "speciesCode": "yerwar",
@@ -13735,9 +13854,9 @@
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": false,
-      "subId": "S319148089",
+      "subId": "S319174493",
       "locId": "L3155577",
-      "checklistLink": "https://ebird.org/checklist/S319148089",
+      "checklistLink": "https://ebird.org/checklist/S319174493",
       "speciesLink": "https://ebird.org/species/ycnher"
     },
     {
@@ -13948,23 +14067,6 @@
       "speciesCode": "evegro",
       "comName": "Evening Grosbeak",
       "sciName": "Hesperiphona vespertina",
-      "locName": "Frascatore feeding sight",
-      "lat": 43.0968637,
-      "lng": -74.7711548,
-      "obsDt": "2026-04-09 06:30",
-      "howMany": 2,
-      "obsValid": true,
-      "obsReviewed": true,
-      "locationPrivate": true,
-      "subId": "S319475981",
-      "locId": "L2808325",
-      "checklistLink": "https://ebird.org/checklist/S319475981",
-      "speciesLink": "https://ebird.org/species/evegro"
-    },
-    {
-      "speciesCode": "evegro",
-      "comName": "Evening Grosbeak",
-      "sciName": "Hesperiphona vespertina",
       "locName": "Scott home",
       "lat": 42.7307639,
       "lng": -76.2569511,
@@ -13976,6 +14078,23 @@
       "subId": "S319118905",
       "locId": "L1306114",
       "checklistLink": "https://ebird.org/checklist/S319118905",
+      "speciesLink": "https://ebird.org/species/evegro"
+    },
+    {
+      "speciesCode": "evegro",
+      "comName": "Evening Grosbeak",
+      "sciName": "Hesperiphona vespertina",
+      "locName": "Frascatore feeding sight",
+      "lat": 43.0968637,
+      "lng": -74.7711548,
+      "obsDt": "2026-04-09 06:30",
+      "howMany": 2,
+      "obsValid": true,
+      "obsReviewed": true,
+      "locationPrivate": true,
+      "subId": "S319475981",
+      "locId": "L2808325",
+      "checklistLink": "https://ebird.org/checklist/S319475981",
       "speciesLink": "https://ebird.org/species/evegro"
     },
     {
@@ -14041,9 +14160,9 @@
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": false,
-      "subId": "S318984033",
+      "subId": "S321857499",
       "locId": "L99381",
-      "checklistLink": "https://ebird.org/checklist/S318984033",
+      "checklistLink": "https://ebird.org/checklist/S321857499",
       "speciesLink": "https://ebird.org/species/sposan"
     },
     {
@@ -14064,23 +14183,6 @@
       "speciesLink": "https://ebird.org/species/snoowl1"
     },
     {
-      "speciesCode": "wiltur",
-      "comName": "Wild Turkey",
-      "sciName": "Meleagris gallopavo",
-      "locName": "The Battery, Manhattan",
-      "lat": 40.7035452,
-      "lng": -74.0159751,
-      "obsDt": "2026-04-08 18:10",
-      "howMany": 1,
-      "obsValid": true,
-      "obsReviewed": true,
-      "locationPrivate": false,
-      "subId": "S318939183",
-      "locId": "L288752",
-      "checklistLink": "https://ebird.org/checklist/S318939183",
-      "speciesLink": "https://ebird.org/species/wiltur"
-    },
-    {
       "speciesCode": "easblu",
       "comName": "Eastern Bluebird",
       "sciName": "Sialia sialis",
@@ -14096,6 +14198,23 @@
       "locId": "L1788995",
       "checklistLink": "https://ebird.org/checklist/S318951987",
       "speciesLink": "https://ebird.org/species/easblu"
+    },
+    {
+      "speciesCode": "wiltur",
+      "comName": "Wild Turkey",
+      "sciName": "Meleagris gallopavo",
+      "locName": "The Battery, Manhattan",
+      "lat": 40.7035452,
+      "lng": -74.0159751,
+      "obsDt": "2026-04-08 18:10",
+      "howMany": 1,
+      "obsValid": true,
+      "obsReviewed": true,
+      "locationPrivate": false,
+      "subId": "S318939183",
+      "locId": "L288752",
+      "checklistLink": "https://ebird.org/checklist/S318939183",
+      "speciesLink": "https://ebird.org/species/wiltur"
     },
     {
       "speciesCode": "commer",
@@ -14228,9 +14347,9 @@
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": false,
-      "subId": "S318887783",
+      "subId": "S318934142",
       "locId": "L505437",
-      "checklistLink": "https://ebird.org/checklist/S318887783",
+      "checklistLink": "https://ebird.org/checklist/S318934142",
       "speciesLink": "https://ebird.org/species/greegr"
     },
     {
@@ -14381,9 +14500,9 @@
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": false,
-      "subId": "S318874194",
+      "subId": "S318874195",
       "locId": "L189800",
-      "checklistLink": "https://ebird.org/checklist/S318874194",
+      "checklistLink": "https://ebird.org/checklist/S318874195",
       "speciesLink": "https://ebird.org/species/neocor"
     },
     {
@@ -14738,9 +14857,9 @@
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": true,
-      "subId": "S318868487",
+      "subId": "S318860095",
       "locId": "L62240651",
-      "checklistLink": "https://ebird.org/checklist/S318868487",
+      "checklistLink": "https://ebird.org/checklist/S318860095",
       "speciesLink": "https://ebird.org/species/snoegr"
     },
     {
@@ -14823,9 +14942,9 @@
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": true,
-      "subId": "S318844352",
+      "subId": "S318903325",
       "locId": "L937333",
-      "checklistLink": "https://ebird.org/checklist/S318844352",
+      "checklistLink": "https://ebird.org/checklist/S318903325",
       "speciesLink": "https://ebird.org/species/chiswi"
     },
     {
@@ -14874,9 +14993,9 @@
       "obsValid": false,
       "obsReviewed": false,
       "locationPrivate": false,
-      "subId": "S318721485",
+      "subId": "S319261681",
       "locId": "L804219",
-      "checklistLink": "https://ebird.org/checklist/S318721485",
+      "checklistLink": "https://ebird.org/checklist/S319261681",
       "speciesLink": "https://ebird.org/species/grycat"
     },
     {
@@ -15101,6 +15220,23 @@
       "speciesLink": "https://ebird.org/species/redcro"
     },
     {
+      "speciesCode": "brnthr",
+      "comName": "Brown Thrasher",
+      "sciName": "Toxostoma rufum",
+      "locName": "Batavia Wastewater Treatment Plant",
+      "lat": 42.988443,
+      "lng": -78.2131344,
+      "obsDt": "2026-04-08 08:28",
+      "howMany": 1,
+      "obsValid": true,
+      "obsReviewed": true,
+      "locationPrivate": false,
+      "subId": "S318725366",
+      "locId": "L224925",
+      "checklistLink": "https://ebird.org/checklist/S318725366",
+      "speciesLink": "https://ebird.org/species/brnthr"
+    },
+    {
       "speciesCode": "retloo",
       "comName": "Red-throated Loon",
       "sciName": "Gavia stellata",
@@ -15116,23 +15252,6 @@
       "locId": "L224925",
       "checklistLink": "https://ebird.org/checklist/S318725369",
       "speciesLink": "https://ebird.org/species/retloo"
-    },
-    {
-      "speciesCode": "brnthr",
-      "comName": "Brown Thrasher",
-      "sciName": "Toxostoma rufum",
-      "locName": "Batavia Wastewater Treatment Plant",
-      "lat": 42.988443,
-      "lng": -78.2131344,
-      "obsDt": "2026-04-08 08:28",
-      "howMany": 1,
-      "obsValid": true,
-      "obsReviewed": true,
-      "locationPrivate": false,
-      "subId": "S318725369",
-      "locId": "L224925",
-      "checklistLink": "https://ebird.org/checklist/S318725369",
-      "speciesLink": "https://ebird.org/species/brnthr"
     },
     {
       "speciesCode": "evegro",
@@ -16251,9 +16370,9 @@
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": true,
-      "subId": "S318459701",
+      "subId": "S318461540",
       "locId": "L621720",
-      "checklistLink": "https://ebird.org/checklist/S318459701",
+      "checklistLink": "https://ebird.org/checklist/S318461540",
       "speciesLink": "https://ebird.org/species/evegro"
     },
     {
@@ -16591,9 +16710,9 @@
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": false,
-      "subId": "S318089676",
+      "subId": "S318089674",
       "locId": "L54007757",
-      "checklistLink": "https://ebird.org/checklist/S318089676",
+      "checklistLink": "https://ebird.org/checklist/S318089674",
       "speciesLink": "https://ebird.org/species/truswa"
     },
     {
@@ -16648,6 +16767,23 @@
       "speciesLink": "https://ebird.org/species/norgan"
     },
     {
+      "speciesCode": "snoegr",
+      "comName": "Snowy Egret",
+      "sciName": "Egretta thula",
+      "locName": "Beaver Island SP--Beaver Island",
+      "lat": 42.9603249,
+      "lng": -78.9603013,
+      "obsDt": "2026-04-06 18:20",
+      "howMany": 1,
+      "obsValid": true,
+      "obsReviewed": true,
+      "locationPrivate": false,
+      "subId": "S319686227",
+      "locId": "L1781444",
+      "checklistLink": "https://ebird.org/checklist/S319686227",
+      "speciesLink": "https://ebird.org/species/snoegr"
+    },
+    {
       "speciesCode": "snogoo",
       "comName": "Snow Goose",
       "sciName": "Anser caerulescens",
@@ -16665,21 +16801,21 @@
       "speciesLink": "https://ebird.org/species/snogoo"
     },
     {
-      "speciesCode": "snoegr",
-      "comName": "Snowy Egret",
-      "sciName": "Egretta thula",
-      "locName": "Beaver Island SP--Beaver Island",
-      "lat": 42.9603249,
-      "lng": -78.9603013,
-      "obsDt": "2026-04-06 18:20",
+      "speciesCode": "ruckin",
+      "comName": "Ruby-crowned Kinglet",
+      "sciName": "Corthylio calendula",
+      "locName": "Home area",
+      "lat": 43.3976693,
+      "lng": -76.4890557,
+      "obsDt": "2026-04-06 18:05",
       "howMany": 1,
       "obsValid": true,
       "obsReviewed": true,
-      "locationPrivate": false,
-      "subId": "S319685675",
-      "locId": "L1781444",
-      "checklistLink": "https://ebird.org/checklist/S319685675",
-      "speciesLink": "https://ebird.org/species/snoegr"
+      "locationPrivate": true,
+      "subId": "S318124147",
+      "locId": "L9656893",
+      "checklistLink": "https://ebird.org/checklist/S318124147",
+      "speciesLink": "https://ebird.org/species/ruckin"
     },
     {
       "speciesCode": "commer",
@@ -16697,23 +16833,6 @@
       "locId": "L191106",
       "checklistLink": "https://ebird.org/checklist/S318274760",
       "speciesLink": "https://ebird.org/species/commer"
-    },
-    {
-      "speciesCode": "ruckin",
-      "comName": "Ruby-crowned Kinglet",
-      "sciName": "Corthylio calendula",
-      "locName": "Home area",
-      "lat": 43.3976693,
-      "lng": -76.4890557,
-      "obsDt": "2026-04-06 18:05",
-      "howMany": 1,
-      "obsValid": true,
-      "obsReviewed": true,
-      "locationPrivate": true,
-      "subId": "S318124147",
-      "locId": "L9656893",
-      "checklistLink": "https://ebird.org/checklist/S318124147",
-      "speciesLink": "https://ebird.org/species/ruckin"
     },
     {
       "speciesCode": "blkvul",
@@ -16852,23 +16971,6 @@
       "speciesLink": "https://ebird.org/species/brnthr"
     },
     {
-      "speciesCode": "commer",
-      "comName": "Common Merganser",
-      "sciName": "Mergus merganser",
-      "locName": "Central Park--Jacqueline Kennedy Onassis Reservoir",
-      "lat": 40.786003,
-      "lng": -73.96196,
-      "obsDt": "2026-04-06 17:18",
-      "howMany": 2,
-      "obsValid": true,
-      "obsReviewed": true,
-      "locationPrivate": false,
-      "subId": "S318087686",
-      "locId": "L191107",
-      "checklistLink": "https://ebird.org/checklist/S318087686",
-      "speciesLink": "https://ebird.org/species/commer"
-    },
-    {
       "speciesCode": "rengre",
       "comName": "Red-necked Grebe",
       "sciName": "Podiceps grisegena",
@@ -16884,6 +16986,23 @@
       "locId": "L5209295",
       "checklistLink": "https://ebird.org/checklist/S318520497",
       "speciesLink": "https://ebird.org/species/rengre"
+    },
+    {
+      "speciesCode": "commer",
+      "comName": "Common Merganser",
+      "sciName": "Mergus merganser",
+      "locName": "Central Park--Jacqueline Kennedy Onassis Reservoir",
+      "lat": 40.786003,
+      "lng": -73.96196,
+      "obsDt": "2026-04-06 17:18",
+      "howMany": 2,
+      "obsValid": true,
+      "obsReviewed": true,
+      "locationPrivate": false,
+      "subId": "S318087686",
+      "locId": "L191107",
+      "checklistLink": "https://ebird.org/checklist/S318087686",
+      "speciesLink": "https://ebird.org/species/commer"
     },
     {
       "speciesCode": "snogoo",
@@ -16965,9 +17084,9 @@
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": true,
-      "subId": "S318039952",
+      "subId": "S318039951",
       "locId": "L6038069",
-      "checklistLink": "https://ebird.org/checklist/S318039952",
+      "checklistLink": "https://ebird.org/checklist/S318039951",
       "speciesLink": "https://ebird.org/species/brwhaw"
     },
     {
@@ -17175,23 +17294,6 @@
       "speciesLink": "https://ebird.org/species/ruckin"
     },
     {
-      "speciesCode": "louwat",
-      "comName": "Louisiana Waterthrush",
-      "sciName": "Parkesia motacilla",
-      "locName": "Forest Park--Waterhole",
-      "lat": 40.706596,
-      "lng": -73.840176,
-      "obsDt": "2026-04-06 14:42",
-      "howMany": 1,
-      "obsValid": true,
-      "obsReviewed": true,
-      "locationPrivate": false,
-      "subId": "S318030315",
-      "locId": "L3619267",
-      "checklistLink": "https://ebird.org/checklist/S318030315",
-      "speciesLink": "https://ebird.org/species/louwat"
-    },
-    {
       "speciesCode": "ruckin",
       "comName": "Ruby-crowned Kinglet",
       "sciName": "Corthylio calendula",
@@ -17207,6 +17309,23 @@
       "locId": "L6317553",
       "checklistLink": "https://ebird.org/checklist/S318097867",
       "speciesLink": "https://ebird.org/species/ruckin"
+    },
+    {
+      "speciesCode": "louwat",
+      "comName": "Louisiana Waterthrush",
+      "sciName": "Parkesia motacilla",
+      "locName": "Forest Park--Waterhole",
+      "lat": 40.706596,
+      "lng": -73.840176,
+      "obsDt": "2026-04-06 14:42",
+      "howMany": 1,
+      "obsValid": true,
+      "obsReviewed": true,
+      "locationPrivate": false,
+      "subId": "S318030315",
+      "locId": "L3619267",
+      "checklistLink": "https://ebird.org/checklist/S318030315",
+      "speciesLink": "https://ebird.org/species/louwat"
     },
     {
       "speciesCode": "palwar",
@@ -17736,21 +17855,21 @@
       "speciesLink": "https://ebird.org/species/purfin"
     },
     {
-      "speciesCode": "grycat",
-      "comName": "Gray Catbird",
-      "sciName": "Dumetella carolinensis",
-      "locName": "Karl Curtis home",
-      "lat": 42.9687962,
-      "lng": -75.9878826,
+      "speciesCode": "truswa",
+      "comName": "Trumpeter Swan",
+      "sciName": "Cygnus buccinator",
+      "locName": "Hunter Lake (private, no public access)",
+      "lat": 41.7218199,
+      "lng": -74.9001377,
       "obsDt": "2026-04-06 10:25",
-      "howMany": 1,
+      "howMany": 3,
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": true,
-      "subId": "S318079493",
-      "locId": "L3497668",
-      "checklistLink": "https://ebird.org/checklist/S318079493",
-      "speciesLink": "https://ebird.org/species/grycat"
+      "subId": "S317982793",
+      "locId": "L43210212",
+      "checklistLink": "https://ebird.org/checklist/S317982793",
+      "speciesLink": "https://ebird.org/species/truswa"
     },
     {
       "speciesCode": "truswa",
@@ -17770,21 +17889,21 @@
       "speciesLink": "https://ebird.org/species/truswa"
     },
     {
-      "speciesCode": "truswa",
-      "comName": "Trumpeter Swan",
-      "sciName": "Cygnus buccinator",
-      "locName": "Hunter Lake (private, no public access)",
-      "lat": 41.7218199,
-      "lng": -74.9001377,
+      "speciesCode": "grycat",
+      "comName": "Gray Catbird",
+      "sciName": "Dumetella carolinensis",
+      "locName": "Karl Curtis home",
+      "lat": 42.9687962,
+      "lng": -75.9878826,
       "obsDt": "2026-04-06 10:25",
-      "howMany": 3,
+      "howMany": 1,
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": true,
-      "subId": "S317982793",
-      "locId": "L43210212",
-      "checklistLink": "https://ebird.org/checklist/S317982793",
-      "speciesLink": "https://ebird.org/species/truswa"
+      "subId": "S318079493",
+      "locId": "L3497668",
+      "checklistLink": "https://ebird.org/checklist/S318079493",
+      "speciesLink": "https://ebird.org/species/grycat"
     },
     {
       "speciesCode": "nrwswa",
@@ -18274,9 +18393,9 @@
       "obsValid": false,
       "obsReviewed": false,
       "locationPrivate": false,
-      "subId": "S317753567",
+      "subId": "S317753569",
       "locId": "L1140871",
-      "checklistLink": "https://ebird.org/checklist/S317753567",
+      "checklistLink": "https://ebird.org/checklist/S317753569",
       "speciesLink": "https://ebird.org/species/purfin1"
     },
     {
@@ -18597,9 +18716,9 @@
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": false,
-      "subId": "S318589118",
+      "subId": "S317470622",
       "locId": "L6275102",
-      "checklistLink": "https://ebird.org/checklist/S318589118",
+      "checklistLink": "https://ebird.org/checklist/S317470622",
       "speciesLink": "https://ebird.org/species/snogoo"
     },
     {
@@ -18614,9 +18733,9 @@
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": false,
-      "subId": "S317517981",
+      "subId": "S317517979",
       "locId": "L2570702",
-      "checklistLink": "https://ebird.org/checklist/S317517981",
+      "checklistLink": "https://ebird.org/checklist/S317517979",
       "speciesLink": "https://ebird.org/species/lotduc"
     },
     {
@@ -18716,9 +18835,9 @@
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": false,
-      "subId": "S317457799",
+      "subId": "S317458367",
       "locId": "L2866122",
-      "checklistLink": "https://ebird.org/checklist/S317457799",
+      "checklistLink": "https://ebird.org/checklist/S317458367",
       "speciesLink": "https://ebird.org/species/snogoo"
     },
     {
@@ -19368,23 +19487,6 @@
       "speciesLink": "https://ebird.org/species/evegro"
     },
     {
-      "speciesCode": "x00685",
-      "comName": "Snow Goose x Brant (hybrid)",
-      "sciName": "Anser caerulescens x Branta bernicla",
-      "locName": "Canarsie Pier",
-      "lat": 40.6287773,
-      "lng": -73.8836704,
-      "obsDt": "2026-04-05 08:30",
-      "howMany": 1,
-      "obsValid": true,
-      "obsReviewed": true,
-      "locationPrivate": false,
-      "subId": "S317464816",
-      "locId": "L247765",
-      "checklistLink": "https://ebird.org/checklist/S317464816",
-      "speciesLink": "https://ebird.org/species/x00685"
-    },
-    {
       "speciesCode": "forter",
       "comName": "Forster's Tern",
       "sciName": "Sterna forsteri",
@@ -19402,6 +19504,23 @@
       "speciesLink": "https://ebird.org/species/forter"
     },
     {
+      "speciesCode": "x00685",
+      "comName": "Snow Goose x Brant (hybrid)",
+      "sciName": "Anser caerulescens x Branta bernicla",
+      "locName": "Canarsie Pier",
+      "lat": 40.6287773,
+      "lng": -73.8836704,
+      "obsDt": "2026-04-05 08:30",
+      "howMany": 1,
+      "obsValid": true,
+      "obsReviewed": true,
+      "locationPrivate": false,
+      "subId": "S317464816",
+      "locId": "L247765",
+      "checklistLink": "https://ebird.org/checklist/S317464816",
+      "speciesLink": "https://ebird.org/species/x00685"
+    },
+    {
       "speciesCode": "louwat",
       "comName": "Louisiana Waterthrush",
       "sciName": "Parkesia motacilla",
@@ -19413,9 +19532,9 @@
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": false,
-      "subId": "S317504520",
+      "subId": "S317428264",
       "locId": "L285884",
-      "checklistLink": "https://ebird.org/checklist/S317504520",
+      "checklistLink": "https://ebird.org/checklist/S317428264",
       "speciesLink": "https://ebird.org/species/louwat"
     },
     {
@@ -19572,9 +19691,9 @@
       "speciesLink": "https://ebird.org/species/sursco"
     },
     {
-      "speciesCode": "whwsco2",
-      "comName": "White-winged Scoter",
-      "sciName": "Melanitta deglandi",
+      "speciesCode": "lbbgul",
+      "comName": "Lesser Black-backed Gull",
+      "sciName": "Larus fuscus",
       "locName": "Coney Island Beach & Boardwalk",
       "lat": 40.5719793,
       "lng": -73.9778996,
@@ -19586,7 +19705,7 @@
       "subId": "S317281628",
       "locId": "L845817",
       "checklistLink": "https://ebird.org/checklist/S317281628",
-      "speciesLink": "https://ebird.org/species/whwsco2"
+      "speciesLink": "https://ebird.org/species/lbbgul"
     },
     {
       "speciesCode": "blksco2",
@@ -19606,9 +19725,9 @@
       "speciesLink": "https://ebird.org/species/blksco2"
     },
     {
-      "speciesCode": "lbbgul",
-      "comName": "Lesser Black-backed Gull",
-      "sciName": "Larus fuscus",
+      "speciesCode": "whwsco2",
+      "comName": "White-winged Scoter",
+      "sciName": "Melanitta deglandi",
       "locName": "Coney Island Beach & Boardwalk",
       "lat": 40.5719793,
       "lng": -73.9778996,
@@ -19620,7 +19739,7 @@
       "subId": "S317281628",
       "locId": "L845817",
       "checklistLink": "https://ebird.org/checklist/S317281628",
-      "speciesLink": "https://ebird.org/species/lbbgul"
+      "speciesLink": "https://ebird.org/species/whwsco2"
     },
     {
       "speciesCode": "sursco",
@@ -19640,23 +19759,6 @@
       "speciesLink": "https://ebird.org/species/sursco"
     },
     {
-      "speciesCode": "comyel",
-      "comName": "Common Yellowthroat",
-      "sciName": "Geothlypis trichas",
-      "locName": "Breese Hollow Road, Hoosick Falls",
-      "lat": 42.8561902,
-      "lng": -73.3001519,
-      "obsDt": "2026-04-04 18:56",
-      "howMany": 1,
-      "obsValid": false,
-      "obsReviewed": false,
-      "locationPrivate": true,
-      "subId": "S317065760",
-      "locId": "L36974146",
-      "checklistLink": "https://ebird.org/checklist/S317065760",
-      "speciesLink": "https://ebird.org/species/comyel"
-    },
-    {
       "speciesCode": "sora",
       "comName": "Sora",
       "sciName": "Porzana carolina",
@@ -19674,6 +19776,23 @@
       "speciesLink": "https://ebird.org/species/sora"
     },
     {
+      "speciesCode": "comyel",
+      "comName": "Common Yellowthroat",
+      "sciName": "Geothlypis trichas",
+      "locName": "Breese Hollow Road, Hoosick Falls",
+      "lat": 42.8561902,
+      "lng": -73.3001519,
+      "obsDt": "2026-04-04 18:56",
+      "howMany": 1,
+      "obsValid": false,
+      "obsReviewed": false,
+      "locationPrivate": true,
+      "subId": "S317065760",
+      "locId": "L36974146",
+      "checklistLink": "https://ebird.org/checklist/S317065760",
+      "speciesLink": "https://ebird.org/species/comyel"
+    },
+    {
       "speciesCode": "snoegr",
       "comName": "Snowy Egret",
       "sciName": "Egretta thula",
@@ -19685,9 +19804,9 @@
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": true,
-      "subId": "S317063492",
+      "subId": "S317063494",
       "locId": "L61864045",
-      "checklistLink": "https://ebird.org/checklist/S317063492",
+      "checklistLink": "https://ebird.org/checklist/S317063494",
       "speciesLink": "https://ebird.org/species/snoegr"
     },
     {
@@ -19821,9 +19940,9 @@
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": false,
-      "subId": "S317095690",
+      "subId": "S317095761",
       "locId": "L5870478",
-      "checklistLink": "https://ebird.org/checklist/S317095690",
+      "checklistLink": "https://ebird.org/checklist/S317095761",
       "speciesLink": "https://ebird.org/species/ycnher"
     },
     {
@@ -19974,9 +20093,9 @@
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": false,
-      "subId": "S316991254",
+      "subId": "S316991256",
       "locId": "L462930",
-      "checklistLink": "https://ebird.org/checklist/S316991254",
+      "checklistLink": "https://ebird.org/checklist/S316991256",
       "speciesLink": "https://ebird.org/species/snoegr"
     },
     {
@@ -20161,27 +20280,10 @@
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": true,
-      "subId": "S316974387",
+      "subId": "S316974386",
       "locId": "L1133152",
-      "checklistLink": "https://ebird.org/checklist/S316974387",
+      "checklistLink": "https://ebird.org/checklist/S316974386",
       "speciesLink": "https://ebird.org/species/brwhaw"
-    },
-    {
-      "speciesCode": "caster1",
-      "comName": "Caspian Tern",
-      "sciName": "Hydroprogne caspia",
-      "locName": "Utica Marsh WMA",
-      "lat": 43.1183434,
-      "lng": -75.2374573,
-      "obsDt": "2026-04-04 15:00",
-      "howMany": 1,
-      "obsValid": true,
-      "obsReviewed": true,
-      "locationPrivate": false,
-      "subId": "S316990313",
-      "locId": "L129227",
-      "checklistLink": "https://ebird.org/checklist/S316990313",
-      "speciesLink": "https://ebird.org/species/caster1"
     },
     {
       "speciesCode": "blkvul",
@@ -20199,6 +20301,23 @@
       "locId": "L3400006",
       "checklistLink": "https://ebird.org/checklist/S316997540",
       "speciesLink": "https://ebird.org/species/blkvul"
+    },
+    {
+      "speciesCode": "caster1",
+      "comName": "Caspian Tern",
+      "sciName": "Hydroprogne caspia",
+      "locName": "Utica Marsh WMA",
+      "lat": 43.1183434,
+      "lng": -75.2374573,
+      "obsDt": "2026-04-04 15:00",
+      "howMany": 1,
+      "obsValid": true,
+      "obsReviewed": true,
+      "locationPrivate": false,
+      "subId": "S316990313",
+      "locId": "L129227",
+      "checklistLink": "https://ebird.org/checklist/S316990313",
+      "speciesLink": "https://ebird.org/species/caster1"
     },
     {
       "speciesCode": "fiscro",
@@ -20507,23 +20626,6 @@
       "speciesLink": "https://ebird.org/species/buwtea"
     },
     {
-      "speciesCode": "lbbgul",
-      "comName": "Lesser Black-backed Gull",
-      "sciName": "Larus fuscus",
-      "locName": "Derby Hill Hawk Watch--North Lookout",
-      "lat": 43.527261,
-      "lng": -76.2393397,
-      "obsDt": "2026-04-04 13:02",
-      "howMany": 1,
-      "obsValid": true,
-      "obsReviewed": true,
-      "locationPrivate": false,
-      "subId": "S316970933",
-      "locId": "L166701",
-      "checklistLink": "https://ebird.org/checklist/S316970933",
-      "speciesLink": "https://ebird.org/species/lbbgul"
-    },
-    {
       "speciesCode": "blkvul",
       "comName": "Black Vulture",
       "sciName": "Coragyps atratus",
@@ -20539,6 +20641,23 @@
       "locId": "L166701",
       "checklistLink": "https://ebird.org/checklist/S316970933",
       "speciesLink": "https://ebird.org/species/blkvul"
+    },
+    {
+      "speciesCode": "lbbgul",
+      "comName": "Lesser Black-backed Gull",
+      "sciName": "Larus fuscus",
+      "locName": "Derby Hill Hawk Watch--North Lookout",
+      "lat": 43.527261,
+      "lng": -76.2393397,
+      "obsDt": "2026-04-04 13:02",
+      "howMany": 1,
+      "obsValid": true,
+      "obsReviewed": true,
+      "locationPrivate": false,
+      "subId": "S316970933",
+      "locId": "L166701",
+      "checklistLink": "https://ebird.org/checklist/S316970933",
+      "speciesLink": "https://ebird.org/species/lbbgul"
     },
     {
       "speciesCode": "forter",
@@ -20773,9 +20892,9 @@
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": false,
-      "subId": "S316863985",
+      "subId": "S316863989",
       "locId": "L99688",
-      "checklistLink": "https://ebird.org/checklist/S316863985",
+      "checklistLink": "https://ebird.org/checklist/S316863989",
       "speciesLink": "https://ebird.org/species/norshr4"
     },
     {
@@ -20824,9 +20943,9 @@
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": true,
-      "subId": "S318614292",
+      "subId": "S318529440",
       "locId": "L61859406",
-      "checklistLink": "https://ebird.org/checklist/S318614292",
+      "checklistLink": "https://ebird.org/checklist/S318529440",
       "speciesLink": "https://ebird.org/species/razorb"
     },
     {
@@ -21374,23 +21493,6 @@
       "speciesLink": "https://ebird.org/species/perfal"
     },
     {
-      "speciesCode": "litgul",
-      "comName": "Little Gull",
-      "sciName": "Hydrocoloeus minutus",
-      "locName": "Moodna Creek Mouth",
-      "lat": 41.453638,
-      "lng": -74.0162145,
-      "obsDt": "2026-04-04 09:33",
-      "howMany": 1,
-      "obsValid": true,
-      "obsReviewed": true,
-      "locationPrivate": false,
-      "subId": "S316847298",
-      "locId": "L1292061",
-      "checklistLink": "https://ebird.org/checklist/S316847298",
-      "speciesLink": "https://ebird.org/species/litgul"
-    },
-    {
       "speciesCode": "blkvul",
       "comName": "Black Vulture",
       "sciName": "Coragyps atratus",
@@ -21406,6 +21508,23 @@
       "locId": "L2618901",
       "checklistLink": "https://ebird.org/checklist/S316796461",
       "speciesLink": "https://ebird.org/species/blkvul"
+    },
+    {
+      "speciesCode": "litgul",
+      "comName": "Little Gull",
+      "sciName": "Hydrocoloeus minutus",
+      "locName": "Moodna Creek Mouth",
+      "lat": 41.453638,
+      "lng": -74.0162145,
+      "obsDt": "2026-04-04 09:33",
+      "howMany": 1,
+      "obsValid": true,
+      "obsReviewed": true,
+      "locationPrivate": false,
+      "subId": "S316847298",
+      "locId": "L1292061",
+      "checklistLink": "https://ebird.org/checklist/S316847298",
+      "speciesLink": "https://ebird.org/species/litgul"
     },
     {
       "speciesCode": "ruckin",
@@ -21442,21 +21561,21 @@
       "speciesLink": "https://ebird.org/species/nrwswa"
     },
     {
-      "speciesCode": "ruckin",
-      "comName": "Ruby-crowned Kinglet",
-      "sciName": "Corthylio calendula",
-      "locName": "Montezuma NWR--South Spring Pool",
-      "lat": 42.97062,
-      "lng": -76.772992,
+      "speciesCode": "blkvul",
+      "comName": "Black Vulture",
+      "sciName": "Coragyps atratus",
+      "locName": "Alley Pond Park--Alley Creek Hawk Watch",
+      "lat": 40.763781,
+      "lng": -73.753161,
       "obsDt": "2026-04-04 09:30",
-      "howMany": 2,
+      "howMany": 1,
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": false,
-      "subId": "S316933709",
-      "locId": "L388097",
-      "checklistLink": "https://ebird.org/checklist/S316933709",
-      "speciesLink": "https://ebird.org/species/ruckin"
+      "subId": "S316971271",
+      "locId": "L38109790",
+      "checklistLink": "https://ebird.org/checklist/S316971271",
+      "speciesLink": "https://ebird.org/species/blkvul"
     },
     {
       "speciesCode": "amebit",
@@ -21476,21 +21595,21 @@
       "speciesLink": "https://ebird.org/species/amebit"
     },
     {
-      "speciesCode": "blkvul",
-      "comName": "Black Vulture",
-      "sciName": "Coragyps atratus",
-      "locName": "Alley Pond Park--Alley Creek Hawk Watch",
-      "lat": 40.763781,
-      "lng": -73.753161,
+      "speciesCode": "ruckin",
+      "comName": "Ruby-crowned Kinglet",
+      "sciName": "Corthylio calendula",
+      "locName": "Montezuma NWR--South Spring Pool",
+      "lat": 42.97062,
+      "lng": -76.772992,
       "obsDt": "2026-04-04 09:30",
-      "howMany": 1,
+      "howMany": 2,
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": false,
-      "subId": "S316971271",
-      "locId": "L38109790",
-      "checklistLink": "https://ebird.org/checklist/S316971271",
-      "speciesLink": "https://ebird.org/species/blkvul"
+      "subId": "S316933709",
+      "locId": "L388097",
+      "checklistLink": "https://ebird.org/checklist/S316933709",
+      "speciesLink": "https://ebird.org/species/ruckin"
     },
     {
       "speciesCode": "evegro",
@@ -21551,31 +21670,14 @@
       "lat": 42.631103,
       "lng": -77.486174,
       "obsDt": "2026-04-04 09:15",
-      "howMany": 1,
+      "howMany": 2,
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": false,
-      "subId": "S316751359",
+      "subId": "S316751358",
       "locId": "L31396638",
-      "checklistLink": "https://ebird.org/checklist/S316751359",
+      "checklistLink": "https://ebird.org/checklist/S316751358",
       "speciesLink": "https://ebird.org/species/evegro"
-    },
-    {
-      "speciesCode": "barswa",
-      "comName": "Barn Swallow",
-      "sciName": "Hirundo rustica",
-      "locName": "Bob & Betty Cummings Memorial Park",
-      "lat": 43.7834911,
-      "lng": -73.3653793,
-      "obsDt": "2026-04-04 09:06",
-      "howMany": 1,
-      "obsValid": true,
-      "obsReviewed": true,
-      "locationPrivate": false,
-      "subId": "S316765143",
-      "locId": "L4735347",
-      "checklistLink": "https://ebird.org/checklist/S316765143",
-      "speciesLink": "https://ebird.org/species/barswa"
     },
     {
       "speciesCode": "caster1",
@@ -21593,6 +21695,23 @@
       "locId": "L4735347",
       "checklistLink": "https://ebird.org/checklist/S316765143",
       "speciesLink": "https://ebird.org/species/caster1"
+    },
+    {
+      "speciesCode": "barswa",
+      "comName": "Barn Swallow",
+      "sciName": "Hirundo rustica",
+      "locName": "Bob & Betty Cummings Memorial Park",
+      "lat": 43.7834911,
+      "lng": -73.3653793,
+      "obsDt": "2026-04-04 09:06",
+      "howMany": 1,
+      "obsValid": true,
+      "obsReviewed": true,
+      "locationPrivate": false,
+      "subId": "S316765143",
+      "locId": "L4735347",
+      "checklistLink": "https://ebird.org/checklist/S316765143",
+      "speciesLink": "https://ebird.org/species/barswa"
     },
     {
       "speciesCode": "eastow",
@@ -21708,9 +21827,9 @@
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": true,
-      "subId": "S316723570",
+      "subId": "S316850184",
       "locId": "L30221676",
-      "checklistLink": "https://ebird.org/checklist/S316723570",
+      "checklistLink": "https://ebird.org/checklist/S316850184",
       "speciesLink": "https://ebird.org/species/lesyel"
     },
     {
@@ -21725,9 +21844,9 @@
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": false,
-      "subId": "S317393506",
+      "subId": "S316758716",
       "locId": "L166701",
-      "checklistLink": "https://ebird.org/checklist/S317393506",
+      "checklistLink": "https://ebird.org/checklist/S316758716",
       "speciesLink": "https://ebird.org/species/fiscro"
     },
     {
@@ -21833,23 +21952,6 @@
       "speciesLink": "https://ebird.org/species/caster1"
     },
     {
-      "speciesCode": "rehwoo",
-      "comName": "Red-headed Woodpecker",
-      "sciName": "Melanerpes erythrocephalus",
-      "locName": "Marshlands Conservancy",
-      "lat": 40.9560952,
-      "lng": -73.7037651,
-      "obsDt": "2026-04-04 07:45",
-      "howMany": 1,
-      "obsValid": true,
-      "obsReviewed": true,
-      "locationPrivate": false,
-      "subId": "S316879034",
-      "locId": "L109149",
-      "checklistLink": "https://ebird.org/checklist/S316879034",
-      "speciesLink": "https://ebird.org/species/rehwoo"
-    },
-    {
       "speciesCode": "lesyel",
       "comName": "Lesser Yellowlegs",
       "sciName": "Tringa flavipes",
@@ -21867,6 +21969,23 @@
       "speciesLink": "https://ebird.org/species/lesyel"
     },
     {
+      "speciesCode": "rehwoo",
+      "comName": "Red-headed Woodpecker",
+      "sciName": "Melanerpes erythrocephalus",
+      "locName": "Marshlands Conservancy",
+      "lat": 40.9560952,
+      "lng": -73.7037651,
+      "obsDt": "2026-04-04 07:45",
+      "howMany": 1,
+      "obsValid": true,
+      "obsReviewed": true,
+      "locationPrivate": false,
+      "subId": "S318436281",
+      "locId": "L109149",
+      "checklistLink": "https://ebird.org/checklist/S318436281",
+      "speciesLink": "https://ebird.org/species/rehwoo"
+    },
+    {
       "speciesCode": "ruckin",
       "comName": "Ruby-crowned Kinglet",
       "sciName": "Corthylio calendula",
@@ -21878,9 +21997,9 @@
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": false,
-      "subId": "S316759735",
+      "subId": "S317331961",
       "locId": "L390730",
-      "checklistLink": "https://ebird.org/checklist/S316759735",
+      "checklistLink": "https://ebird.org/checklist/S317331961",
       "speciesLink": "https://ebird.org/species/ruckin"
     },
     {
@@ -21952,23 +22071,6 @@
       "speciesLink": "https://ebird.org/species/grycat"
     },
     {
-      "speciesCode": "tunswa",
-      "comName": "Tundra Swan",
-      "sciName": "Cygnus columbianus",
-      "locName": "Kanakadea Park and Almond Lake",
-      "lat": 42.350617,
-      "lng": -77.7123316,
-      "obsDt": "2026-04-04 07:35",
-      "howMany": 1,
-      "obsValid": false,
-      "obsReviewed": false,
-      "locationPrivate": false,
-      "subId": "S316690119",
-      "locId": "L268790",
-      "checklistLink": "https://ebird.org/checklist/S316690119",
-      "speciesLink": "https://ebird.org/species/tunswa"
-    },
-    {
       "speciesCode": "caster1",
       "comName": "Caspian Tern",
       "sciName": "Hydroprogne caspia",
@@ -21984,6 +22086,23 @@
       "locId": "L509108",
       "checklistLink": "https://ebird.org/checklist/S316819582",
       "speciesLink": "https://ebird.org/species/caster1"
+    },
+    {
+      "speciesCode": "tunswa",
+      "comName": "Tundra Swan",
+      "sciName": "Cygnus columbianus",
+      "locName": "Kanakadea Park and Almond Lake",
+      "lat": 42.350617,
+      "lng": -77.7123316,
+      "obsDt": "2026-04-04 07:35",
+      "howMany": 1,
+      "obsValid": false,
+      "obsReviewed": false,
+      "locationPrivate": false,
+      "subId": "S316690119",
+      "locId": "L268790",
+      "checklistLink": "https://ebird.org/checklist/S316690119",
+      "speciesLink": "https://ebird.org/species/tunswa"
     },
     {
       "speciesCode": "evegro",
@@ -22082,9 +22201,9 @@
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": true,
-      "subId": "S318614324",
+      "subId": "S318828113",
       "locId": "L61858939",
-      "checklistLink": "https://ebird.org/checklist/S318614324",
+      "checklistLink": "https://ebird.org/checklist/S318828113",
       "speciesLink": "https://ebird.org/species/blksco2"
     },
     {
@@ -22099,9 +22218,9 @@
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": true,
-      "subId": "S318613484",
+      "subId": "S318526191",
       "locId": "L61858939",
-      "checklistLink": "https://ebird.org/checklist/S318613484",
+      "checklistLink": "https://ebird.org/checklist/S318526191",
       "speciesLink": "https://ebird.org/species/sursco"
     },
     {
@@ -22116,27 +22235,10 @@
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": true,
-      "subId": "S318613484",
+      "subId": "S318525978",
       "locId": "L61858939",
-      "checklistLink": "https://ebird.org/checklist/S318613484",
+      "checklistLink": "https://ebird.org/checklist/S318525978",
       "speciesLink": "https://ebird.org/species/whwsco2"
-    },
-    {
-      "speciesCode": "ruckin",
-      "comName": "Ruby-crowned Kinglet",
-      "sciName": "Corthylio calendula",
-      "locName": "Brookdale Preserve",
-      "lat": 43.0775218,
-      "lng": -77.7093048,
-      "obsDt": "2026-04-04 07:10",
-      "howMany": 2,
-      "obsValid": true,
-      "obsReviewed": true,
-      "locationPrivate": false,
-      "subId": "S316697968",
-      "locId": "L5823938",
-      "checklistLink": "https://ebird.org/checklist/S316697968",
-      "speciesLink": "https://ebird.org/species/ruckin"
     },
     {
       "speciesCode": "brnthr",
@@ -22170,6 +22272,23 @@
       "subId": "S316812420",
       "locId": "L293903",
       "checklistLink": "https://ebird.org/checklist/S316812420",
+      "speciesLink": "https://ebird.org/species/ruckin"
+    },
+    {
+      "speciesCode": "ruckin",
+      "comName": "Ruby-crowned Kinglet",
+      "sciName": "Corthylio calendula",
+      "locName": "Brookdale Preserve",
+      "lat": 43.0775218,
+      "lng": -77.7093048,
+      "obsDt": "2026-04-04 07:10",
+      "howMany": 2,
+      "obsValid": true,
+      "obsReviewed": true,
+      "locationPrivate": false,
+      "subId": "S316697968",
+      "locId": "L5823938",
+      "checklistLink": "https://ebird.org/checklist/S316697968",
       "speciesLink": "https://ebird.org/species/ruckin"
     },
     {
@@ -22258,23 +22377,6 @@
       "speciesLink": "https://ebird.org/species/fiscro"
     },
     {
-      "speciesCode": "barswa",
-      "comName": "Barn Swallow",
-      "sciName": "Hirundo rustica",
-      "locName": "Robert Moses SP",
-      "lat": 40.6242696,
-      "lng": -73.2622342,
-      "obsDt": "2026-04-04 06:41",
-      "howMany": 1,
-      "obsValid": true,
-      "obsReviewed": true,
-      "locationPrivate": false,
-      "subId": "S316847645",
-      "locId": "L268000",
-      "checklistLink": "https://ebird.org/checklist/S316847645",
-      "speciesLink": "https://ebird.org/species/barswa"
-    },
-    {
       "speciesCode": "bohwax",
       "comName": "Bohemian Waxwing",
       "sciName": "Bombycilla garrulus",
@@ -22292,6 +22394,23 @@
       "speciesLink": "https://ebird.org/species/bohwax"
     },
     {
+      "speciesCode": "barswa",
+      "comName": "Barn Swallow",
+      "sciName": "Hirundo rustica",
+      "locName": "Robert Moses SP",
+      "lat": 40.6242696,
+      "lng": -73.2622342,
+      "obsDt": "2026-04-04 06:41",
+      "howMany": 1,
+      "obsValid": true,
+      "obsReviewed": true,
+      "locationPrivate": false,
+      "subId": "S316847645",
+      "locId": "L268000",
+      "checklistLink": "https://ebird.org/checklist/S316847645",
+      "speciesLink": "https://ebird.org/species/barswa"
+    },
+    {
       "speciesCode": "sursco",
       "comName": "Surf Scoter",
       "sciName": "Melanitta perspicillata",
@@ -22303,9 +22422,9 @@
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": false,
-      "subId": "S318629795",
+      "subId": "S322657873",
       "locId": "L835012",
-      "checklistLink": "https://ebird.org/checklist/S318629795",
+      "checklistLink": "https://ebird.org/checklist/S322657873",
       "speciesLink": "https://ebird.org/species/sursco"
     },
     {
@@ -22320,9 +22439,9 @@
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": false,
-      "subId": "S318542313",
+      "subId": "S318525703",
       "locId": "L835012",
-      "checklistLink": "https://ebird.org/checklist/S318542313",
+      "checklistLink": "https://ebird.org/checklist/S318525703",
       "speciesLink": "https://ebird.org/species/lbbgul"
     },
     {
@@ -22700,21 +22819,21 @@
       "speciesLink": "https://ebird.org/species/forter"
     },
     {
-      "speciesCode": "sursco",
-      "comName": "Surf Scoter",
-      "sciName": "Melanitta perspicillata",
+      "speciesCode": "whwsco2",
+      "comName": "White-winged Scoter",
+      "sciName": "Melanitta deglandi",
       "locName": "Coney Island Beach & Boardwalk",
       "lat": 40.5719793,
       "lng": -73.9778996,
       "obsDt": "2026-04-03 15:35",
-      "howMany": 24,
+      "howMany": 1,
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": false,
       "subId": "S316462922",
       "locId": "L845817",
       "checklistLink": "https://ebird.org/checklist/S316462922",
-      "speciesLink": "https://ebird.org/species/sursco"
+      "speciesLink": "https://ebird.org/species/whwsco2"
     },
     {
       "speciesCode": "blksco2",
@@ -22734,21 +22853,21 @@
       "speciesLink": "https://ebird.org/species/blksco2"
     },
     {
-      "speciesCode": "whwsco2",
-      "comName": "White-winged Scoter",
-      "sciName": "Melanitta deglandi",
+      "speciesCode": "sursco",
+      "comName": "Surf Scoter",
+      "sciName": "Melanitta perspicillata",
       "locName": "Coney Island Beach & Boardwalk",
       "lat": 40.5719793,
       "lng": -73.9778996,
       "obsDt": "2026-04-03 15:35",
-      "howMany": 1,
+      "howMany": 24,
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": false,
       "subId": "S316462922",
       "locId": "L845817",
       "checklistLink": "https://ebird.org/checklist/S316462922",
-      "speciesLink": "https://ebird.org/species/whwsco2"
+      "speciesLink": "https://ebird.org/species/sursco"
     },
     {
       "speciesCode": "louwat",
@@ -22819,23 +22938,6 @@
       "speciesLink": "https://ebird.org/species/daejun5"
     },
     {
-      "speciesCode": "rengre",
-      "comName": "Red-necked Grebe",
-      "sciName": "Podiceps grisegena",
-      "locName": "City Island, Belden Point",
-      "lat": 40.8376243,
-      "lng": -73.7829097,
-      "obsDt": "2026-04-03 14:51",
-      "howMany": 1,
-      "obsValid": true,
-      "obsReviewed": true,
-      "locationPrivate": false,
-      "subId": "S316560440",
-      "locId": "L5209295",
-      "checklistLink": "https://ebird.org/checklist/S316560440",
-      "speciesLink": "https://ebird.org/species/rengre"
-    },
-    {
       "speciesCode": "whwsco2",
       "comName": "White-winged Scoter",
       "sciName": "Melanitta deglandi",
@@ -22851,6 +22953,23 @@
       "locId": "L5209295",
       "checklistLink": "https://ebird.org/checklist/S316534754",
       "speciesLink": "https://ebird.org/species/whwsco2"
+    },
+    {
+      "speciesCode": "rengre",
+      "comName": "Red-necked Grebe",
+      "sciName": "Podiceps grisegena",
+      "locName": "City Island, Belden Point",
+      "lat": 40.8376243,
+      "lng": -73.7829097,
+      "obsDt": "2026-04-03 14:51",
+      "howMany": 1,
+      "obsValid": true,
+      "obsReviewed": true,
+      "locationPrivate": false,
+      "subId": "S316560440",
+      "locId": "L5209295",
+      "checklistLink": "https://ebird.org/checklist/S316560440",
+      "speciesLink": "https://ebird.org/species/rengre"
     },
     {
       "speciesCode": "norgan",
@@ -22887,23 +23006,6 @@
       "speciesLink": "https://ebird.org/species/cacgoo1"
     },
     {
-      "speciesCode": "brnthr",
-      "comName": "Brown Thrasher",
-      "sciName": "Toxostoma rufum",
-      "locName": "Green-Wood Cemetery, Brooklyn",
-      "lat": 40.6523083,
-      "lng": -73.9904281,
-      "obsDt": "2026-04-03 14:38",
-      "howMany": 1,
-      "obsValid": true,
-      "obsReviewed": true,
-      "locationPrivate": false,
-      "subId": "S316445071",
-      "locId": "L285884",
-      "checklistLink": "https://ebird.org/checklist/S316445071",
-      "speciesLink": "https://ebird.org/species/brnthr"
-    },
-    {
       "speciesCode": "gwcspa",
       "comName": "White-crowned Sparrow (Gambel's)",
       "sciName": "Zonotrichia leucophrys",
@@ -22919,6 +23021,23 @@
       "locId": "L285884",
       "checklistLink": "https://ebird.org/checklist/S316445071",
       "speciesLink": "https://ebird.org/species/gwcspa"
+    },
+    {
+      "speciesCode": "brnthr",
+      "comName": "Brown Thrasher",
+      "sciName": "Toxostoma rufum",
+      "locName": "Green-Wood Cemetery, Brooklyn",
+      "lat": 40.6523083,
+      "lng": -73.9904281,
+      "obsDt": "2026-04-03 14:38",
+      "howMany": 1,
+      "obsValid": true,
+      "obsReviewed": true,
+      "locationPrivate": false,
+      "subId": "S316445071",
+      "locId": "L285884",
+      "checklistLink": "https://ebird.org/checklist/S316445071",
+      "speciesLink": "https://ebird.org/species/brnthr"
     },
     {
       "speciesCode": "lbbgul",
@@ -22938,23 +23057,6 @@
       "speciesLink": "https://ebird.org/species/lbbgul"
     },
     {
-      "speciesCode": "rehwoo",
-      "comName": "Red-headed Woodpecker",
-      "sciName": "Melanerpes erythrocephalus",
-      "locName": "Marshlands Conservancy",
-      "lat": 40.9560952,
-      "lng": -73.7037651,
-      "obsDt": "2026-04-03 14:30",
-      "howMany": 1,
-      "obsValid": true,
-      "obsReviewed": true,
-      "locationPrivate": false,
-      "subId": "S316477284",
-      "locId": "L109149",
-      "checklistLink": "https://ebird.org/checklist/S316477284",
-      "speciesLink": "https://ebird.org/species/rehwoo"
-    },
-    {
       "speciesCode": "purfin",
       "comName": "Purple Finch",
       "sciName": "Haemorhous purpureus",
@@ -22970,6 +23072,23 @@
       "locId": "L109149",
       "checklistLink": "https://ebird.org/checklist/S316477284",
       "speciesLink": "https://ebird.org/species/purfin"
+    },
+    {
+      "speciesCode": "rehwoo",
+      "comName": "Red-headed Woodpecker",
+      "sciName": "Melanerpes erythrocephalus",
+      "locName": "Marshlands Conservancy",
+      "lat": 40.9560952,
+      "lng": -73.7037651,
+      "obsDt": "2026-04-03 14:30",
+      "howMany": 1,
+      "obsValid": true,
+      "obsReviewed": true,
+      "locationPrivate": false,
+      "subId": "S316477284",
+      "locId": "L109149",
+      "checklistLink": "https://ebird.org/checklist/S316477284",
+      "speciesLink": "https://ebird.org/species/rehwoo"
     },
     {
       "speciesCode": "buhvir",
@@ -23187,9 +23306,9 @@
       "obsValid": true,
       "obsReviewed": true,
       "locationPrivate": true,
-      "subId": "S316337222",
+      "subId": "S316541535",
       "locId": "L42983578",
-      "checklistLink": "https://ebird.org/checklist/S316337222",
+      "checklistLink": "https://ebird.org/checklist/S316541535",
       "speciesLink": "https://ebird.org/species/grecor"
     },
     {
@@ -23414,23 +23533,6 @@
       "speciesLink": "https://ebird.org/species/bargoo"
     },
     {
-      "speciesCode": "norshr4",
-      "comName": "Northern Shrike",
-      "sciName": "Lanius borealis",
-      "locName": "Steam Mill Rd., Danby",
-      "lat": 42.3459862,
-      "lng": -76.4623929,
-      "obsDt": "2026-04-03 10:00",
-      "howMany": 1,
-      "obsValid": true,
-      "obsReviewed": true,
-      "locationPrivate": false,
-      "subId": "S316279089",
-      "locId": "L10348291",
-      "checklistLink": "https://ebird.org/checklist/S316279089",
-      "speciesLink": "https://ebird.org/species/norshr4"
-    },
-    {
       "speciesCode": "evegro",
       "comName": "Evening Grosbeak",
       "sciName": "Hesperiphona vespertina",
@@ -23446,6 +23548,23 @@
       "locId": "L621720",
       "checklistLink": "https://ebird.org/checklist/S316402976",
       "speciesLink": "https://ebird.org/species/evegro"
+    },
+    {
+      "speciesCode": "norshr4",
+      "comName": "Northern Shrike",
+      "sciName": "Lanius borealis",
+      "locName": "Steam Mill Rd., Danby",
+      "lat": 42.3459862,
+      "lng": -76.4623929,
+      "obsDt": "2026-04-03 10:00",
+      "howMany": 1,
+      "obsValid": true,
+      "obsReviewed": true,
+      "locationPrivate": false,
+      "subId": "S316279089",
+      "locId": "L10348291",
+      "checklistLink": "https://ebird.org/checklist/S316279089",
+      "speciesLink": "https://ebird.org/species/norshr4"
     },
     {
       "speciesCode": "purfin",
@@ -23686,23 +23805,6 @@
       "speciesLink": "https://ebird.org/species/brnthr"
     },
     {
-      "speciesCode": "ruckin",
-      "comName": "Ruby-crowned Kinglet",
-      "sciName": "Corthylio calendula",
-      "locName": "Braddock Bay--Owl Woods",
-      "lat": 43.3201355,
-      "lng": -77.7264261,
-      "obsDt": "2026-04-03 08:18",
-      "howMany": 1,
-      "obsValid": false,
-      "obsReviewed": false,
-      "locationPrivate": false,
-      "subId": "S316520200",
-      "locId": "L390730",
-      "checklistLink": "https://ebird.org/checklist/S316520200",
-      "speciesLink": "https://ebird.org/species/ruckin"
-    },
-    {
       "speciesCode": "redcro",
       "comName": "Red Crossbill",
       "sciName": "Loxia curvirostra",
@@ -23718,6 +23820,23 @@
       "locId": "L390730",
       "checklistLink": "https://ebird.org/checklist/S316520200",
       "speciesLink": "https://ebird.org/species/redcro"
+    },
+    {
+      "speciesCode": "ruckin",
+      "comName": "Ruby-crowned Kinglet",
+      "sciName": "Corthylio calendula",
+      "locName": "Braddock Bay--Owl Woods",
+      "lat": 43.3201355,
+      "lng": -77.7264261,
+      "obsDt": "2026-04-03 08:18",
+      "howMany": 1,
+      "obsValid": false,
+      "obsReviewed": false,
+      "locationPrivate": false,
+      "subId": "S316520200",
+      "locId": "L390730",
+      "checklistLink": "https://ebird.org/checklist/S316520200",
+      "speciesLink": "https://ebird.org/species/ruckin"
     },
     {
       "speciesCode": "evegro",
@@ -23839,23 +23958,6 @@
       "speciesLink": "https://ebird.org/species/grycat"
     },
     {
-      "speciesCode": "blkvul",
-      "comName": "Black Vulture",
-      "sciName": "Coragyps atratus",
-      "locName": "Mexico Point SP",
-      "lat": 43.5195516,
-      "lng": -76.2580491,
-      "obsDt": "2026-04-03 06:41",
-      "howMany": 4,
-      "obsValid": false,
-      "obsReviewed": false,
-      "locationPrivate": false,
-      "subId": "S316643531",
-      "locId": "L883720",
-      "checklistLink": "https://ebird.org/checklist/S316643531",
-      "speciesLink": "https://ebird.org/species/blkvul"
-    },
-    {
       "speciesCode": "brnthr",
       "comName": "Brown Thrasher",
       "sciName": "Toxostoma rufum",
@@ -23871,6 +23973,23 @@
       "locId": "L24926456",
       "checklistLink": "https://ebird.org/checklist/S316210927",
       "speciesLink": "https://ebird.org/species/brnthr"
+    },
+    {
+      "speciesCode": "blkvul",
+      "comName": "Black Vulture",
+      "sciName": "Coragyps atratus",
+      "locName": "Mexico Point SP",
+      "lat": 43.5195516,
+      "lng": -76.2580491,
+      "obsDt": "2026-04-03 06:41",
+      "howMany": 4,
+      "obsValid": false,
+      "obsReviewed": false,
+      "locationPrivate": false,
+      "subId": "S316643531",
+      "locId": "L883720",
+      "checklistLink": "https://ebird.org/checklist/S316643531",
+      "speciesLink": "https://ebird.org/species/blkvul"
     },
     {
       "speciesCode": "ycnher",
